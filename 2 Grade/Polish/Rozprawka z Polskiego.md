@@ -1,0 +1,13 @@
+### **Rola przyjaźni w życiu człowieka**
+
+**Teza:** Przyjaźń jest jedną z najważniejszych wartości w życiu człowieka, ponieważ daje mu wsparcie, siłę i poczucie sensu.
+
+Przyjaźń odgrywa bardzo ważną rolę w życiu człowieka. Dzięki niej czujemy się potrzebni, rozumiani i mniej samotni. To właśnie ona pozwala nam lepiej znosić trudne chwile i cieszyć się radościami codziennego życia. Brak przyjaźni może prowadzić do smutku, pustki i poczucia osamotnienia. Długie trwanie w takim stanie często wpływa negatywnie na psychikę i odbiera chęć do działania. Dlatego przyjaźń jest jednym z filarów ludzkiego szczęścia i dobrego samopoczucia. Daje człowiekowi poczucie bezpieczeństwa, nadzieję i sens życia. Uczy też empatii, wrażliwości i lojalności, czyli wartości, które kształtują nas jako ludzi.
+
+W _„Dziadach cz. III”_ Adama Mickiewicza przyjaźń pokazano w bardzo trudnych warunkach. Filomaci i filareci zostali uwięzieni przez rosyjskie władze, ale mimo cierpienia wspierali się nawzajem. To właśnie ich więź dawała im siłę, by nie załamać się psychicznie. Przyjaźń pomagała im przetrwać i zachować wiarę w sens walki o wolność. Nawet Konrad, który buntował się przeciwko Bogu i przeżywał wewnętrzny kryzys, nie był sam. Otaczali go ludzie, którzy go rozumieli i nie zostawili w potrzebie. Przyjaźń okazała się dla nich źródłem nadziei i duchowej siły.
+
+Podobne znaczenie ma przyjaźń w książce Aleksandra Kamińskiego _„Kamienie na szaniec”_. Autor pokazuje ją na przykładzie Rudego, Alka i Zośki. Ich relacja była głęboka i prawdziwa. Łączyły ich wspólne wartości, zaufanie i gotowość do poświęceń. Gdy Rudy został aresztowany i torturowany przez gestapo, jego przyjaciele postanowili go odbić, mimo że groziła im śmierć. Nie udało im się go uratować, ale ich odwaga i wierność udowodniły, że prawdziwa przyjaźń trwa nawet po śmierci. To ona dawała im siłę do walki, mimo strachu i cierpienia.
+
+Także we współczesnym świecie przyjaźń ma ogromne znaczenie. W dzisiejszych czasach wiele osób żyje w pośpiechu i spędza dużo czasu w internecie, przez co brakuje im prawdziwych relacji. A to właśnie one pomagają przetrwać trudne chwile. Bliskie przyjaźnie sprawiają, że ludzie czują się szczęśliwsi, lepiej radzą sobie ze stresem i rzadziej czują się samotni. Przyjaciele dają nam wsparcie, pomagają uwierzyć w siebie i pokazują, że nie jesteśmy sami.
+
+Podsumowując, przyjaźń jest bardzo ważna w życiu człowieka. W _„Dziadach cz. III”_ dawała nadzieję i siłę, w _„Kamieniach na szaniec”_ prowadziła do odwagi i poświęcenia, a we współczesnym świecie pomaga zachować równowagę i wiarę w ludzi. To właśnie przyjaźń sprawia, że człowiek staje się silniejszy, lepszy i bardziej odporny na cierpienie. Bez niej życie byłoby puste i pozbawione prawdziwego sensu.
