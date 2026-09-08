@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "4 Grade Matura SUKA/delete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "delete"
             }
           }
         ]
@@ -190,6 +190,11 @@
   },
   "active": "d558be53777c9893",
   "lastOpenFiles": [
+    "3 Grade/delete.md",
+    "4 Grade Matura SUKA/delete.md",
+    "2 Grade/delete.md",
+    "1 Grade/delete.md",
+    "README.md",
     "3 Grade/Sport",
     "3 Grade/Computer Science",
     "3 Grade/Physics",
@@ -200,7 +205,6 @@
     "3 Grade/History",
     "3 Grade/English",
     "3 Grade/Math",
-    "3 Grade/German PAWLIK ALERT",
     "2 Grade/German/words.md",
     "2 Grade/German/Praca domowa.md",
     "2 Grade/German/KAPITEL8_GPTML_FILE.md",
@@ -221,10 +225,6 @@
     "2 Grade/Geography/Sprawdz/4. Migracje.md",
     "2 Grade/Geography/Sprawdz/3. Rozmieszczenie ludności na świecie.md",
     "2 Grade/Geography/Sprawdz/2. Rozwój demograficzny..md",
-    "2 Grade/Geography/Sprawdz/1. Liczba ludności świata i jej zmiany.md",
-    "2 Grade/Geography/Rozpad Jugoslawii.md",
-    "2 Grade/Geography/Rolnictwo, leśnictwo i rybactwo/Geografia_GPT_INFO.md",
-    "2 Grade/Geography/Rolnictwo, leśnictwo i rybactwo/5. Rybactwo.md",
-    "2 Grade/Geography/Rolnictwo, leśnictwo i rybactwo/4. Lasy na Ziemi. Gospodarks leśna..md"
+    "2 Grade/Geography/Sprawdz/1. Liczba ludności świata i jej zmiany.md"
   ]
 }
