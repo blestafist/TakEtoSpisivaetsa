@@ -57,7 +57,7 @@ Przyczynami tego są:
 - konsumpcyjny styl życia (czyli styl nastawiony na osiągnięcie sukcesu zawodowego i gromadzenie dóbr materialnych),
 - bardo duży odsetek osób starszych.
 
-**Na niską wartość współczynnika urodzeń wpływają:**
+**Na niską wzartość współczynnika urodzeń wpływają:**
 - długotrwałe kryzysy gospodarcze,
 - brak perspektyw na poprawę warunków życia.
 
@@ -66,9 +66,11 @@ Przyczynami tego są:
 - nasilania się chorób cywilizacyjnych.
 
 
+[[2.Rozwoj demograficzny]]
+
 ## Model przejścia demograficznego.
 
-**Model przejścia demograficznego** - pokazuje jak zmieniają się w czasie, wartości współczynników urodzeń, zgonów, i przyrostu naturalnego. Ten model obejmuje 5 etapów nazywanych **fazami rozwoju demograficznego.**
+**Model przejścia demograficznego** - pokazuje jak zmieniają się w czasie wartości współczynników urodzeń, zgonów, i przyrostu naturalnego. Ten model obejmuje 5 etapów nazywanych **fazami rozwoju demograficznego.**
 
 Faza 1 (przedtransformacyjna) - współczynnik urodzeń i zgonów są wysokie.
 Faza 2 (początek transformacji demograficznej) - współczynnik urodzeń jest nadal wysoki, jednak współczynnik zgonów wyrażnie się zmniejsza.
@@ -91,12 +93,12 @@ Faza 5 (regres demograficzny) - następuje dalszy spadek liczby urodzeń - z cza
 W krajach prechodzących II i III fazę rozwoju demograficznego, liczba zgonów systematycznie się zmniejsza, a liczba urodzeń pozostaje na wysokim poziomie. To skutkuje bardzo szybkim wzrostem przyrostu naturalnego, nazywanym **eksplozja demograficzna**.
 
 **Przyczyny eksplozji demograficznej:**
-- zmniejszanie liczby zgonów na skutek większej higieny i rozwoju medycyny,
-- wzrost produkcji żywności,
+- zmniejszanie liczby zgonów na skutek większej higieny i rozwoju medycyny
+- wzrost produkcji żywności
 - powszechność modelu rodziny wielodzietnej, uwarunkowaną głównie kulturowo i religijnie,
-- duży udział w społeczeństwie kobiet biologicznie zdolnych do urodzenia dziecka,
-- zakładanie rodzin w młodym wieku,
-- niski pożiom wykształcenia kobiet i podejmowanie pracy zawodowej przez niewielką ich liczbę.
+- duży udział w społeczeństwie kobiet biologicznie zdolnych do urodzenia dziecka
+- zakładanie rodzin w młodym wieku
+- niski pożiom wykształcenia kobiet i podejmowanie pracy zawodowej przez niewielką ich liczbę
 
 **Eksplozja demograficzna wywołuje wiele negatywnych skutków:**
 - państwo nie może zaspokoić różnych potrzeb społeczeństwa, m. in. w zakresie ochrony zdrowia,
@@ -111,7 +113,7 @@ W krajach prechodzących II i III fazę rozwoju demograficznego, liczba zgonów 
 
 **Jest charakterna dla karjów znajdujących się w V fazie rozwoju demograficznego.**
 
-**Negatywne konsekwencje implozji demograficznej:**
+**Negatywne konskekwencje implozji demograficznej:**
 - społeczeństwo szybciej się starzeje,
 - trudniej zapewnić opieke zdrowotną obywatelom w kraju, zwłaszcza osobam starszym,
 - pojawia się niedobór młodych ludzi na rynku pracy, 
@@ -163,7 +165,7 @@ Wiek rozrodczy - jest to wiek, w którym kobieta jest zdolna do urodzenia dzieck
 **Społeczeństwo młode** - społeczeństwa w których odsetek dzieci i młodzieży jest duży, a udział osób starszych jest niewielki. **Jest efektem eksplozji demograficznej.**
 
 
-Społeczeństwa starych i hiperstarych - nazywamy społeczeństwa z dużym odsetkiem ludności w wieku 65 lat i więcej. **Jest efektem regresu demograficznego, oraz wzrostu średniej długości życia.**
+Połeczeństwa starych i hiperstarych - nazywamy społeczeństwa z dużym odsetkiem ludności w wieku 65 lat i więcej. **Jest efektem regresu demograficznego, oraz wzrostu średniej długości życia.**
 
 
 ### Przyczyny i skutki starzenia się społeczeństw
@@ -181,6 +183,7 @@ Konsekwencje starzenia się społeczeństwa:
 - spowolnienie wzrostu gospodarczego państwa, spowodowany zmniejszeniem się liczby pracujących.
 - wzrost liczby osob korzystających ze świadczeń emerytalnych i związane z tym zwiękzenie wydatków z budżetu państwa.
 
+[[3. Rozmieszczenie ludnosci na swiecie]]
 
 ### Obszary lądowe
 
@@ -273,7 +276,7 @@ Wszystkie bariery osadnicze występują np. w Górach Transantarktycznych.
 	- wystepowanie wielolietniej zmarzliny.
  - **Obszary wilgotnych lasów równikowych**
 	 - klimat równikowy wybitnie wilgotny (bariera termiczna i bariera wodna),
-	 - brak żyznych gleb,
+	 - braz żyznych gleb,
 	 - nadmiar wilgoci obniżający wydolność ludzkiego organizmu, przyszpieszajacy erozję gleb i utrudniający przechowywanie żywności.
 - **Obszary pustynne w Afryce, Azji i Australii**
 	- brak żyznych gleb,
@@ -293,6 +296,7 @@ Wszystkie bariery osadnicze występują np. w Górach Transantarktycznych.
 - Niemal 50% ludności świata zamieszkuje obszary, które nie są oddalone więcej niż 200 km od wybrzeży mórz i oceanów.
 - Znaczna koncentracja ludności jest widoczna w dolinach i deltach rzek.
 
+[[School1/2 Grade/Geography/Sprawdz/4. Migracje]]
 
 **Migracje - to przemieszczanie się ludzi, związane ze stałą bądź z czasową zmianą miejsca pobytu lub zamieszkania.**
 
@@ -338,7 +342,7 @@ Ze względu na skalę i kierunek migracje wyróżniamy:
 - bogate w ropę naftową kraje zatoki perskiej (np. Zjednoczone Emiraty Arabskie, Katar)
 
 **Do krajów emigracyjnych należa:**
-- o niskim poziomie rozwoju gospodarczo-społecznym, często są dotknięte problemami związanymi z przeludnieniem i złymi warunkami życia. (np. wiele krajów Azji Południowo-Wschodniej, Ameryki Łacińskiej i Afryki),
+- o niskim poziomie rozwoju gospodarczo-społecznym, często są dotknięte problemami związanymi z przeludnieniem i złymi warunkami życia. (np. wiele krajów Azji Południowo-Wschodniej, Ameryki Łacińskieh i Afryki),
 - ogarnięte różnymi konfliktami (np. Ukraina, Afganistan, Jemen, Mjanma, Sudan, Wenezuela).
 
 
@@ -363,7 +367,7 @@ Ze względu na skalę i kierunek migracje wyróżniamy:
 		- Zmniejszenie bezrobocia w państwach emigracyjnych,
 		- Poprawa standartu życia emigrantów i ich rodzin,
 		- Napływ pracowników do państw imigracyjnych,
-		- Wzrost zróżnicowania kulturowego społeczeństw,
+		- Wzrost zróżnicowanie kulturowego społeczeństw,
 		- Zasilanie budżetów państw imigracyjnych wpływami z podatków płaconych przez pracowników z zagranicy.
 		
 	- **Negatywne skutki:**
@@ -378,6 +382,8 @@ Ze względu na skalę i kierunek migracje wyróżniamy:
 
  **Uchodźca** - to osoba która musi uciekać ze swojego kraju z powodu zagrożenia życia.
  **Migrant ekonomiczny** - to osoba która zmienia miejsce swojego zamieszkania po to, aby poprawić swoją sytuacje materialną.
+
+[[5. Zroznicowanie religijne ludnosci]]
 
 ### Religia
 
@@ -402,11 +408,11 @@ Struktura religijna świata
 - buddyzm - 6,6%
 - judaizm - 0,2%
 - pozostałe - 22%
-- chrześcijaństwo - 32,4%
+- #### chrześcijaństwo
 	- protestantyzm - 35,9%
 	- katolicyzm - 48,6
 	- prawosławie - 11,1%
-	- pozostałe wyznania - 0,8%
+	- pozostałe wyznania - 0,8
 
 ### Religie światu
 
@@ -591,7 +597,10 @@ Jednym z przejawów polskiej religijności jest pielgrzymowanie. Najpopularniejs
 - **Krąg Afrykański** - Silne więzi plemienne oraz tradycyjne lokalne wierzenia przeplatają się z postępującymi wpływami islamu i chrześcijaństwa.
 - **Krąg hinduski** - podziałspołeczeństwa na kasty (mimo zakazó prawnych) powoduje duże nierówności społeczne.
 - **Krąg buddyjski** - Fundamentami są wiara w reinkarnacje i odpowiednie postawy, np. nabywanie mądrości i odrzucanie żądz.
-- **Krąg japoński** - charakterystycznym jest szacunek do władzy, oraz pracowitość i zaangażowanie w wypełnianie obowiązków. 
+- **Krąg japoński** - charakterystycznym jest szacunek do władzy, oraz pracowitość i zaangażowanie w wypełnianie obowiązków.
+
+
+[[6. Siec osadnicza. Urbanizacja]]
 
 
 **Osadnictwo** - przechodzenie trybu życia człowieka z koczowniczego na osiadły. 
@@ -625,7 +634,7 @@ Czynniki lokalizacji jednostek osadniczych:
 
 ### Sieć osadnicza wybranych regionów świat
 
-Sieć osadnicza w północnej Syberii (Rosja) - gęstość tej sieci osadniczej jest bardzo mała. Wynika to z niekorzystnych warunków przyrodniczych. Nieliczne miejscowości są zlokalizowane nad rzekami (Lena i Jana) oraz tem, gdzie wystepują surowce mineralne.
+Sieć osadnicza w północnej Syberii (Rosja) - gęstość tej sieci osadniczej jjest bardzo mała. Wynika to z niekorzystnych warunków przyrodniczych. Nieliczne miejscowości są zlokalizowane nad rzekami (Lena i Jana) oraz tem, gdzie wystepują surowce mineralne.
 
 SIeć osadnicza nad Zatoką Tokijską (Japonia) - ta sieć jest bardzo gęsta. Na tym obszrze występuje wiele dużych i małych miast połączonych bardzo dobrze rozwiniętą siecią linii komunikacyjnych. O takim rozwoju tej sieći głównie zdecydowały czynniki przyrodnicze oraz polityczno-gospodarcze.
 
@@ -645,10 +654,10 @@ SIeć osadnicza nad Zatoką Tokijską (Japonia) - ta sieć jest bardzo gęsta. N
 
 #### Przyczyny urbanizacji:
 - Słabe gleby, niewielkie zasoby wody oraz naturalne katastrofy przyczyniające się do spadku produkcji rolnej, a tym samym głody i niedożywiena ludności wsi,
-- Większe możliwości znaleźienia prac, oraz więkze zarobki w miastach niż na wsi,
+- Większe możliwości znależienia prac, oraz więkze zarobki w miastach niż na wsi,
 - Wzrost zapotrzebowania na siłę roboczą wzraz z rozwojem miast,
-- Łatwiejszy dostęp do opieki medycznej, edukacji, a także rozrywki i placówek kultury w miastach niż na terenach wiejskich.
-- Trudności z utrzymaniem z pracy na roli, ze względu na rosnącą liczbę mieszkańców wsi. 
+- Łatwiejszy dostęp do opieki medycznej, edukacji, a także rozrywki i placówekkultuyry w miastach niż na terenach wiejskich.
+- Trudności z utrzymywanie z pracy na roli, ze względu na rosnącą liczbę mieszkańców wsi. 
 
 #### Skutki urbanizacji:
 - Rozwój działalności gospodarczej (np. handlu i innych usług) dzięki rosnącemu zaludnieniu miast,
@@ -676,11 +685,13 @@ Najbardziej zurbanizowane było województwo śląskie, w którym ludność miej
 Z kolei województwo podkarpackie i świętokrzyskie, w których ludność miejska stanowi mniej niż połowę mieszkańców. O niskim wskaźnikie urbanizacje decyduje tam duża liczba małych gospodarstw rolnych.
 
 
+[[7. Rozwoj obszarow wiejskich]]
+
 ###  Wieś a obszar wiejski
 
 **Obszar wiejski** - to przestrzeń, którą tworzą wsie wraz z ich otoczeniem, np. polami uprawnymi, pastwiskami i lasami.
 
-Największa pod względem liczby ludności wsią w Polsce są **Kozy** w województwie Śląskim.
+Największa pod względem liczby ludności wsią w Polsce są Kozy w województwie Śląskim.
 
 
 ### Obszary wiejskie na świecie
@@ -688,7 +699,7 @@ Największa pod względem liczby ludności wsią w Polsce są **Kozy** w wojewó
 
 
 
-### Czynniki rozwoju obszarów wiejskich na świecie
+### Czynniki rozwoju obszrów wiejskich na świecie
 
 #### Przyrodnicze
 - rolnicza przydatność gleb, dostep do wody, warunki klimatyczne,
@@ -711,14 +722,13 @@ Największa pod względem liczby ludności wsią w Polsce są **Kozy** w wojewó
 **Pełnienie przez obszary wiejskie różnych funkcji wynika z określonego wykorzystywania istniejących na danym obszarze czynników rozwoju** (przyrodnice, społeczno-kulturowe, ekonomiczne)
 
 Zmieniające funckje wiejskie:
-- **funkcje turystyczne** - wynika z tego że mieszkańcy obszarów wiejskich wykorzystują walory przyrodnicze (sprzyjające np. aktywnemu wypoczynkowi) oraz walory kulturowe (sprzyjające np. do rozwoju turystyki poznawczej),
+- **funkcje turystyczne** - związana jest z walorami kulturowymi i środowiska naturalnego terenów wiejskich,
 - **funkcja rezydencjalna** - jest związana z migracją stała lub czasową zamożnej ludności miejskij do wsi,
 - **funkcja gospodarcza (pozarolnicza)** - obszary wiejskie stają się miejscem lokalizacji inwestycji z zakresu infrastruktury komunikacyjnej, zakładów przemysłowych, oczyszczalni ścieków.
 
-### Wsie z pomysłem
+### Wsie z pomusłem
 
 **Wsie z pomysłem** – to wsie, w których mieszkańcy tworzą specjalną, tematyczną ofertę turystyczną opartą na jednym motywie (np. przyrodniczym, kulturowym lub historycznym), aby wyróżnić wieś i przyciągnąć turystów.
 
-Mohndorf Armschlag - w Austrii to niewielka wieś, która słynie z uprawy maku niebieskiego. Organizują tam różne imprezy, np. Makowe Dożynki.
 
-Koniaków w województwie śląskim to wieś, która jest znana głównie z powstających tam wyrobów z koronki.
+[[testik_otwety]]

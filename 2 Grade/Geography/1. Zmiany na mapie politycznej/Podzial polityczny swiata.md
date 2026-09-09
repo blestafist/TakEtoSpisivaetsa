@@ -7,15 +7,10 @@ Na państwo składają się 3 zasadniczne elementy:
 - **ludność** - zamieszkująca to terytorium
 - **suwerenna władza** - utrzymuje relacje międzynarodowe (np. gospodarcze)
 
-Terytorium państwa - to **ląd wraz z wodami śródlądowymi**.  
-Do państw nadmorskich należą jeszcze **wody terytorialne**, czyli pas wód morskich o **maksymalnej szerokości 12 mil morskich**.
+Terytorium → ląd, wody (12 mil morskich), przestrzeń powietrzna nad państwem
 
-Te kraje mogą również ustanowić **strefę ekonomiczną** o szerokości **200 mil morskich**.  
-W jej obrębie mogą **korzystać z różnych zasobów**, np. **wydobywać surowce mineralne z dna morskiego**.
 
-**Prawo między narodowe** - wszystkie kraje, niezależnie od ich wielkości, są tak samo ważne.
-
-**Terytoria zależne** → obszary o ograniczonej suwerenności. Mają pewną autonomię (lokalne wybory), jednak pozostają w strefie wpływów innego kraju. Najczęściej wynika to z kolonializmu (historyczna zależność). Są to terytoria w większości o niewielkim obszarze i małej liczbie mieszkańców, ludzie zwykłe nie dązą do uzyskania pełnej autonomii. Wynika to główne z ekonomicznych więzi z krajem mecierzystym(metropolią).
+**Terytoria zależne** → obszary o ograniczonej suwerenności. Mają pewną autonomię (lokalne wybory), jednak pozostają w strefie wpływów innego kraju. Najczęściej wynika to z kolonializmu (historyczna zależność). Są to terytoria w większości o niewielkim obszarze i małej liczbie mieszkańców (albo wyspy, które nie dążą do pełnej autonomii, ponieważ mają powiązanie z krajem macierzystym (ekonomiczne))
 
 Terytoria zależne mają UK, Fracja, Holandia i USA.
 
@@ -42,7 +37,7 @@ Dokładne określenie ich liczby nie jest proste, bo zależy od kryteriów przyj
 Kryteria, państwo:
 - **niepodległość** → formalnie ogłoszona lub historycznie uzyskana
 - **uznanie międzynarodowe** → np. przynależność do ONZ
-- **sprawowanie realnej władzy** → przynajmniej na części terytorium
+- **sprawowanie realnej władzy** przynajmniej na części terytorium
 
 Jednak nie można określić dokładnej liczby państw, np Tawjan, która spełnia trzy kryteria, jednak z punktu widzenia Chin jest tylko zbuntowaną prowincją.
 
@@ -50,5 +45,8 @@ Jednak nie można określić dokładnej liczby państw, np Tawjan, która spełn
 
 ---
 
-Kolonializm → proces historyczny, który polega na podbijaniu słabo rozwiniętych obszarów, oraz na utrzymywaniu nad nimi kontroli politycznej i gospodarczej.
-Dekolonizacja → proces historyczny polegający na rozpadzie kolonii i uzyskiwania niepodległości przez kraje skolonizowane.
+Kolonializm → proces historyczny, który polega na podboju przez państwa europejskie obszarów słabo rozwiniętych w Azji, Afryce, Amerykach oraz utrzymywaniu kontroli politycznej nad tymi obszarami
+
+Dekolonizacja → proces rozpadu kolonii i uzyskiwania niepodległości przez poszczególne kraje skolonizowane
+
+[[Integracja i dezintegracja na swiecie]]

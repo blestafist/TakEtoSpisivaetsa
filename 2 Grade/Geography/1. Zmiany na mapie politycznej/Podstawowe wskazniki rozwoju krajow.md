@@ -24,7 +24,7 @@ Im wyżej procent usług, tym bardziej kraj jest rozwinięty
 
 ## Czym jest wskaźnik rozwoju społecznego (HDI)
 
-HDI → jets to wskaźnik syntetyczny, który odzwierciedla wszystkie dziedziny życia społecznego i gospodarczego danego państwa. (wartość od 0 do 1)
+HDI → wskaźnik syntetyczny, który odzwierciedla wszystkie dziedziny życia społecznego i gospodarczego danego państwa. (wartość od 0 do 1)
 
 Składnikami HDI są:
 - oczekiwana długość życia
@@ -57,3 +57,4 @@ MPI nie dotyczy wszystkich państw świata, jedynie ponad 100.
 
 Im wyższy jest MPI, tym większy poziom ubóstwa występuje w danym kraju
 
+[[Podzial polityczny swiata]]
