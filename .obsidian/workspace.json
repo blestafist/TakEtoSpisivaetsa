@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Grade Matura SUKA/delete.md",
+                "file": "Prompts/OCR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "delete"
+              "title": "OCR"
             }
           }
         ]
@@ -188,10 +188,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "d558be53777c9893",
+  "active": "124a61013156982d",
   "lastOpenFiles": [
-    "3 Grade/delete.md",
+    "Prompts/Instruction for tests.md",
+    "Prompts/OCR.md",
+    "Prompts/Prompt.md",
     "4 Grade Matura SUKA/delete.md",
+    "3 Grade/delete.md",
     "2 Grade/delete.md",
     "1 Grade/delete.md",
     "README.md",
@@ -222,9 +225,6 @@
     "2 Grade/Geography/Sprawdz/7. Rozwój obszarów wiejskich.md",
     "2 Grade/Geography/Sprawdz/6. Sieć osadnicza. Urbanizacja.md",
     "2 Grade/Geography/Sprawdz/5. Zróżnicowanie religijne ludności świata. Kręgi kulturowe.md",
-    "2 Grade/Geography/Sprawdz/4. Migracje.md",
-    "2 Grade/Geography/Sprawdz/3. Rozmieszczenie ludności na świecie.md",
-    "2 Grade/Geography/Sprawdz/2. Rozwój demograficzny..md",
-    "2 Grade/Geography/Sprawdz/1. Liczba ludności świata i jej zmiany.md"
+    "2 Grade/Geography/Sprawdz/4. Migracje.md"
   ]
 }
