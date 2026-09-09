@@ -1,0 +1,36 @@
+## 1. Micro → Zmiany w naszej szkole
+	- Przynajmniej 48 nieprzygotowan na tydzień
+- Głowy zamiast podłogi żeby dla Jury było lepiej chodzić
+- перевести информатика в другой класс
+- дать яцку премию
+- повысить яцка
+- убрать лингос
+- починить проектор физику 
+- сжечь ведьм класса (тимура) →  заебал пректор выключать
+- убрать охранника
+- вернуть неалюбина ивана
+- написать свой либроффис
+- перевести весь класс С в А
+- сделать игоря директором
+- ну как будто бы надо сделать дубликат ключей игорю
+- бесплатная столовкаъ
+- повысить маргариту
+- ежак контрит
+- добавить урок бравла
+- разрешить терминал на инфоиматике
+- бесплатное место под сервер в школе, бля я не хочу платить за электричество 
+- usunąć odpytywanie z biologii
+
+## 2. Macro → Zmiany w polskiej szkole
+- я гитлер
+- лера язагит
+- ułatwienie programu szkolego
+- allow phone use in schools (even on lessons)
+- adolf hitler
+- przynajmniej 48 nieprzygotowań na tydzień (na każdy przedmiot)
+- легал выход их школы
+- skrócić lekcje do 30 minut i usunąć przerwy ezzzzzzz
+- разрешить собак в школах
+- убрать непрофильиные предметы в лицее
+- хз че писать
+- тут тоже не знаю
