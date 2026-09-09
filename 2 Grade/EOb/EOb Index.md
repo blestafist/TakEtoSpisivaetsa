@@ -28,8 +28,8 @@
 [[t3]]
 
 ### AI i prompty
-[[School1/2 Grade/EOb/Materialy pomocnicze/_AI/EOB_1ST_GPTML]]
-[[School1/2 Grade/EOb/Materialy pomocnicze/_AI/EOB_3RD_GPTML]]
+[[EOB_1ST_GPTML]]
+[[EOB_3RD_GPTML]]
 [[karta pracy prompt]]
 [[PromptSprawdzian3]]
 

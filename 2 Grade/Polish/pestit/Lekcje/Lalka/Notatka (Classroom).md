@@ -1,6 +1,6 @@
 
 Notatka z lekcji
-[[School/2 Grade/Polish/Yurii/Lalka/Lalka - Boleslaw Prus - Wprowadzenie]]
+[[School/2 Grade/Polish/pestit/Lekcje/Lalka/Lalka - Boleslaw Prus - Wprowadzenie]]
 
 ## Podstawowe informacje 
 
@@ -24,7 +24,7 @@ Notatka z lekcji
 |**Julian Ochocki**|Idealista nauki, marzyciel o maszynach latających. Reprezentuje pozytywistyczny kult wiedzy.|
 |**Helena Stawska**|Uosobienie szlachetności i ciężkiej pracy. Niesłusznie oskarżona o kradzież lalki przez baronową Krzeszowską.|
 
-Notatka z postaci → [[School/2 Grade/Polish/Yurii/Lalka/Postaci - Lalka]]
+Notatka z postaci → [[School/2 Grade/Polish/pestit/Lekcje/Lalka/Postaci - Lalka]]
 
 
 ---

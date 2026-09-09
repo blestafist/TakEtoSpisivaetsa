@@ -78,7 +78,7 @@ Władysław Herman starał się unikać konfliktów. Uznał Czeskie pretensje do
 W 1079 utracił grody Czerwieńskie.
 Agresywną politykę prowadził tylko wobec Pomorza
 
-Sam rezydował w Płocku, a działanie w jego imieniu powierzył [[School1/2 Grade/History/Pierwsi piastowie/Kryzys i odbudowa monarchii piastowskiej#Palatyn - zarządzał dworem panującego oraz nadzorował grody.|palatynowi]] Sieciechowi.
+Sam rezydował w Płocku, a działanie w jego imieniu powierzył [[School/2 Grade/History/Pierwsi piastowie/Kryzys i odbudowa monarchii piastowskiej#Palatyn - zarządzał dworem panującego oraz nadzorował grody.|palatynowi]] Sieciechowi.
 
 #### Palatyn - zarządzał dworem panującego oraz nadzorował grody.
 

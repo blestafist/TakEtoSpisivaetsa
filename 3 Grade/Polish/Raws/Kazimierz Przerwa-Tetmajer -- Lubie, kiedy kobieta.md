@@ -1,0 +1,24 @@
+# Kazimierz Przerwa-Tetmajer → Lubię, kiedy kobieta...
+
+Lubię, kiedy kobieta omdlewa w objęciu,
+kiedy w lubieżnym zwisa przez ramię przegięciu,
+gdy jej oczy zachodzą mgłą, twarz cała blednie,
+i wargi się wilgotnie rozchylą bezwiednie.
+
+Lubię, kiedy ją rozkosz i żądza oniemi,
+gdy wpija się w ramiona palcami drżącemi,
+gdy krótkim, urywanym oddycha oddechem
+i oddaje się cała z mdlejacym uśmiechem.
+
+I lubię ten wstyd, co się kobiecie zabrania
+przyznać, że czuje rozkosz, że moc pożądania
+zwalcza ją, a sycenie żądzy oszalenia,
+gdy szuka ust, a lęka się słów i spojrzenia.
+
+Lubię to - i tę chwile lubię, gdy koło mnie
+wyczerpana, zmęczona leży nieprzytomnie,
+a myśl moja już od niej wybiega skrzydlata
+w nieskończone przestrzenie nieziemskiego świata
+
+---
+

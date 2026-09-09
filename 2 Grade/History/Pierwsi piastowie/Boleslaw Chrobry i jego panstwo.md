@@ -53,4 +53,4 @@ Smierć Ottona III odsuneła plany koronacyjne polskiego księcia
 
 W 1024 zmarł Henryk II i już w 1025 ***Bolesław Chrobry koronował się na pierwszego króla Polski***
 
-[[School1/2 Grade/History/Pierwsi piastowie/Kryzys i odbudowa monarchii piastowskiej]]
+[[School/2 Grade/History/Pierwsi piastowie/Kryzys i odbudowa monarchii piastowskiej]]

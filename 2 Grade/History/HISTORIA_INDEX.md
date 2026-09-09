@@ -1,7 +1,7 @@
 ## Pierwsi piastowie
 [[1. Narodziny panstwa polskiego. Mieszko I]]
 [[Boleslaw Chrobry i jego panstwo]]
-[[School1/2 Grade/History/Pierwsi piastowie/Kryzys i odbudowa monarchii piastowskiej]]
+[[School/2 Grade/History/Pierwsi piastowie/Kryzys i odbudowa monarchii piastowskiej]]
 [[Testament Krzywoustego]]
 
 ---
@@ -25,8 +25,8 @@
 ---
 ## Materiały pomocnicze
 [[Notatki Kariny]]
-[[School1/2 Grade/History/Pierwsi piastowie/PIASTOWIE_HIST_GPTML_FILE]]
-[[School1/2 Grade/History/Unie Polski i wojny z krzyzakami/HIST_KARTKOWKA_UNIE_KRZYZACY_GPTML_FILE]]
+[[School/2 Grade/History/Pierwsi piastowie/PIASTOWIE_HIST_GPTML_FILE]]
+[[School/2 Grade/History/Unie Polski i wojny z krzyzakami/HIST_KARTKOWKA_UNIE_KRZYZACY_GPTML_FILE]]
 [[School/_Class2/Historia/Demokracja szlachecka/HIST_DEMOKRACJASZ_GPTML]]
 [[School/_Class2/Historia/Demokracja szlachecka/HIST_DEMOKRACJASZ_ZESZYT]]
 [[HIST_DRMOKRACJASZ_BOOK]]
