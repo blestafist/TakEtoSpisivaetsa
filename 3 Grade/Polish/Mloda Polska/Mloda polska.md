@@ -184,6 +184,8 @@ Kazimierz Przerwa-Tetmajer → Lubię, kiedy kobieta → erotyk
 
 ---
 
+## Na sprawdzian
+
 Artysta
 Absolutyzm
 Filister
