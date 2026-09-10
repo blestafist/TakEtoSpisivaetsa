@@ -33,4 +33,10 @@ UNREADABLE:
 - Unreadable region → `[BAD QUALITY]` at that position, then continue.
 
 Output format: valid Markdown. Nothing else.
-The image will come in the next prompt. Write `understand.` if you did understand the instructions
+INPUT HANDLING:
+- If one or more images are attached to THIS message, start transcribing right away. Do not write `understand.`, do not ask for the image.
+- If no image is attached, reply exactly `understand.` and wait — the image comes in the next message.
+- If there is more than one image, transcribe EVERY one, in the order they were attached, separated by a marker line:
+  `=== IMAGE 1 ===`, `=== IMAGE 2 ===`, and so on. Never merge them into one stream, never skip one, never stop after the first.
+- With a single image, output no marker at all. Numbering restarts at 1 in every new message.
+- Heading levels are decided per image. Do not renumber or re-nest headings to make several images fit one outline. If a list or table is cut off and continues on the next image, still close it on the first and reopen it on the second.

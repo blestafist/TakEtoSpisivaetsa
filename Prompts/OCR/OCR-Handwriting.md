@@ -36,5 +36,11 @@ DRAFT ARTIFACTS:
 - Drawings, sketches, geometric figures → `[FIGURE: description + all labels visible on it]`.
 - Unfinished, trailing-off writing → transcribe what exists and end with `[...]`.
 
-Output format: plain text + LaTeX math + the markers above. Nothing else.
-The image will come in the next prompt. Write `understand.` if you did understand the instructions
+Output format: plain text + Unicode math / LaTeX math where needed + the markers above. Nothing else.
+INPUT HANDLING:
+- If one or more images are attached to THIS message, start transcribing right away. Do not write `understand.`, do not ask for the image.
+- If no image is attached, reply exactly `understand.` and wait — the image comes in the next message.
+- If there is more than one image, transcribe EVERY one, in the order they were attached, separated by a marker line:
+  `=== IMAGE 1 ===`, `=== IMAGE 2 ===`, and so on. Never merge them into one stream, never skip one, never stop after the first.
+- With a single image, output no marker at all. Numbering restarts at 1 in every new message.
+- If the images share the same handwriting, keep the letterform model you built on the earlier ones. If the hand visibly changes, reset it and read the new image on its own.

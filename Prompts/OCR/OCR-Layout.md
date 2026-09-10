@@ -37,5 +37,11 @@ SPATIAL FIDELITY:
 - Text rotated 90° → `[ROTATED]` marker before it.
 - Struck-through text → `~~text~~`. Inserted text (carets, arrows adding words) → `[INS: text]` at the insertion point.
 
-Output format: plain text + LaTeX math + the region markers above. Nothing else.
-The image will come in the next prompt. Write `understand.` if you did understand the instructions
+Output format: plain text + Unicode math / LaTeX math where needed + the region markers above. Nothing else.
+INPUT HANDLING:
+- If one or more images are attached to THIS message, start transcribing right away. Do not write `understand.`, do not ask for the image.
+- If no image is attached, reply exactly `understand.` and wait — the image comes in the next message.
+- If there is more than one image, transcribe EVERY one, in the order they were attached, separated by a marker line:
+  `=== IMAGE 1 ===`, `=== IMAGE 2 ===`, and so on. Never merge them into one stream, never skip one, never stop after the first.
+- With a single image, output no marker at all. Numbering restarts at 1 in every new message.
+- Layout is detected per image. Region markers reset for each one — a `[COLUMN 1]` on image 2 has nothing to do with image 1.
