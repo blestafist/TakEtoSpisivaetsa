@@ -181,3 +181,14 @@ dialektyzacja (stylizacja gwarowa) → rodzaj stylizacji, który polega na naśl
 ---
 
 Kazimierz Przerwa-Tetmajer → Lubię, kiedy kobieta → erotyk
+
+---
+
+Artysta
+Absolutyzm
+Filister
+sztuka czysta
+sztuka demokratyczna, utylitarna
+"Sztuka nie ma żadnego celu..."
+"Sztuka dla ludu to pasza dla bydła"
+
