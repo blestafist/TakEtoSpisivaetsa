@@ -10,5 +10,5 @@ STRICT RULES:
 - Do NOT interpret, solve, explain, or comment on anything you see.
 - Do NOT add punctuation, corrections, or improvements that aren't in the original.
 
-Output format: plain text + LaTeX math. Nothing else.
+Output format: plain text + unicode math. Nothing else.
 The image will came in next prompt. Write `understand.` if you did understand the instructions
