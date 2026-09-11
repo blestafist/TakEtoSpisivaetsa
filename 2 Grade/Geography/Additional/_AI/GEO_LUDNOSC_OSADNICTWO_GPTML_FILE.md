@@ -731,4 +731,4 @@ Zmieniające funckje wiejskie:
 **Wsie z pomysłem** – to wsie, w których mieszkańcy tworzą specjalną, tematyczną ofertę turystyczną opartą na jednym motywie (np. przyrodniczym, kulturowym lub historycznym), aby wyróżnić wieś i przyciągnąć turystów.
 
 
-[[testik_otwety]]
+[[Additional/Answers/Testik - odpowiedzi]]

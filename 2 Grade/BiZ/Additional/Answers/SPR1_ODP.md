@@ -98,4 +98,4 @@ $$
 | XI               | Listopad          | 30          |
 | XII              | Grudzień          | 31          |
 
-ML [[School/_Class2/BiZ/Materialy pomocnicze/BIZ_2ND_GPTML]]
+ML [[BIZ_2ND_GPTML]]

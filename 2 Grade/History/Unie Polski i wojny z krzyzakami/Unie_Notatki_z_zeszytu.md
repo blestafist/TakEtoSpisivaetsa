@@ -21,4 +21,4 @@ Marcin Luter, tworząc swoją ideologię → keśli władca ma swoją religię, 
 
 !!! Hohencolermy → nie ma możliwości, żeby wladzę w Prusach objął ktoś z ich rodu
 
-[[School/2 Grade/History/Unie Polski i wojny z krzyzakami/HIST_KARTKOWKA_UNIE_KRZYZACY_GPTML_FILE]] → GPTML 
+[[Additional/_AI/HIST_UNIE_I_KRZYZACY_GPTML]] → GPTML 

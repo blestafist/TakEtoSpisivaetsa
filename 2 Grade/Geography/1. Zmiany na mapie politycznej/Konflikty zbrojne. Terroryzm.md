@@ -1,7 +1,7 @@
 ## Dlaczego wybuchają konflikty?
 
 Najczęściej na świecie wyodrębnia się trzy główne przyczyny konfliktów:
-![[Konflity zbrojne (przyczyny).canvas|Konflity zbrojne (przyczyny)]]
+![[Additional/Canvas/Konflikty zbrojne (przyczyny).canvas|Konflikty zbrojne (przyczyny)]]
 
 W praktyce większość konliktów jest znacznie barziej złożona i ma więciej niż jedną przyczynę. Przykładem może być konflikt podczas Rozpadu Jugosławii. Były takie czynniki jak zróżnicowanie etniczne i religijne tamtejszej ludności a takżę spory dotyczące terenów.
 

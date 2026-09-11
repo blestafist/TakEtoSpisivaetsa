@@ -212,9 +212,9 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"effdf590eb5b3e5d","type":"file","file":"School/BiZ/Materialy pomocnicze/Canvas/_canvas_resources/Wybrane instytucje rynku finansowego w Polsce_img2.jpg","x":2640,"y":-450,"width":400,"height":300},
-		{"id":"585f9bd6e3d68b56","type":"file","file":"School/BiZ/Materialy pomocnicze/Canvas/_canvas_resources/Wybrane instytucje rynku finansowego w Polsce_img3.jpg","x":2240,"y":-120,"width":800,"height":600},
-		{"id":"d9ba1b2d6402d547","type":"file","file":"School/BiZ/Materialy pomocnicze/Canvas/_canvas_resources/Wybrane instytucje rynku finansowego w Polsce_img1.jpg","x":2240,"y":-450,"width":400,"height":300},
+		{"id":"effdf590eb5b3e5d","type":"file","file":"2 Grade/BiZ/Additional/Canvas/_canvas_resources/Wybrane instytucje rynku finansowego w Polsce_img2.jpg","x":2640,"y":-450,"width":400,"height":300},
+		{"id":"585f9bd6e3d68b56","type":"file","file":"2 Grade/BiZ/Additional/Canvas/_canvas_resources/Wybrane instytucje rynku finansowego w Polsce_img3.jpg","x":2240,"y":-120,"width":800,"height":600},
+		{"id":"d9ba1b2d6402d547","type":"file","file":"2 Grade/BiZ/Additional/Canvas/_canvas_resources/Wybrane instytucje rynku finansowego w Polsce_img1.jpg","x":2240,"y":-450,"width":400,"height":300},
 		{
 			"id":"d464e2e4368d4642",
 			"type":"text",
