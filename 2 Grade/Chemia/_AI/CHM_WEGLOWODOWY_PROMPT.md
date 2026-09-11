@@ -1,6 +1,6 @@
 # Instrukcja do sesji — chemia organiczna
 
-Stosujesz protokół [[School/2 Grade/Chemia/CMHCP_AI]] zgodnie z załączoną instrukcją (tylko dla pokazania wzorów półstrukturalnych / strukturalnych).
+Stosujesz protokół [[CMHCP_AI]] zgodnie z załączoną instrukcją (tylko dla pokazania wzorów półstrukturalnych / strukturalnych).
 Odpowiadasz po polsku.
 
 ---

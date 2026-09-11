@@ -8,7 +8,7 @@
 
 ---
 
-**Zadanie 2.** Uporządkuj narządy w takiej kolejności, aby przedstawić drogę przepływu powietrza opuszczającego miejsce, w którym dochodzi do wymiany gazowej. Wpisz w odpowiednich miejscach cyfry 1–6. ( ) gardło, ( ) płuca, ( ) krtań, ( ) oskrzela główne, ( ) jama nosowa, ( ) tchawica.
+**Zadanie 2.** Uporządkuj narządy w takiej kolejności, aby przedstawić drogę przepływu powietrza opuszczającego miejsce, w którym dochodzi do wymiany gazowej. Wpisz w odpowiednich miejscac[[Biology presentation - uklad oddechowy]]h cyfry 1–6. ( ) gardło, ( ) płuca, ( ) krtań, ( ) oskrzela główne, ( ) jama nosowa, ( ) tchawica.
 
 - **Płuca**
     

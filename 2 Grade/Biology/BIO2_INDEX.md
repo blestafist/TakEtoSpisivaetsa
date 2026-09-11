@@ -20,7 +20,7 @@
 [[1. Budowa i rola układu hormonalnego]]
 [[2. Regulacja wydzielania hormonów 1]]
 [[3. Nadczynność i niedoczynność tarczycy. Stres]]
-[[merged]]
+[[BIO_HORMONALNY_GPTML]]
 
 ---
 ## Układ oddechowy
@@ -48,13 +48,13 @@
 ## Układ rozrodczy
 [[1. Budowa i funkcje męskich narządów rozrodczych]]
 [[2. Budowa i funkcje żeńskich narządów rozrodczych]]
-[[konspekt rozdzial 12]]
+[[Notatki zeszyt]]
 
 ---
 ## Materiały dodatkowe
-[[Biology presentation]]
-[[BIO_4RTH_GPTML]]
+[[Biology presentation - uklad oddechowy]]
+[[BIO_ODDECHOWY_GPTML]]
 [[ODP_KARTY_PRACY]]
-[[Układ oddechowy i układ krążenia]]
+[[BIO_ODDECHOWY_KRAZENIE_GPTML]]
 
 ---
