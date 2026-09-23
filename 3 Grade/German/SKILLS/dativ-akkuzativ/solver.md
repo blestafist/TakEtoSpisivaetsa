@@ -11,7 +11,7 @@ produce:
 2. `Ich schenke ihm den Ball.`
 3. `Ich schenke ihn meinem Bruder.`
 4. `Ich schenke ihn ihm.`
-    
+
 
 # Algorithm
 
@@ -100,7 +100,6 @@ Watch N-Deklination:
 - Do not force every verb into Dat + Akk. Verify verb government first.
 - With separable verbs keep normal object rules:
     - `Ich gebe ihm das Buch zurück.`
-        
 
 # Output
 
