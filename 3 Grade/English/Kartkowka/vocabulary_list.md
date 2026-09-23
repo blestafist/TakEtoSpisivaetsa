@@ -170,44 +170,44 @@
 
 ### 5.5 Grammar
 
-| English | Polish |
-| :--- | :--- |
-| abandon | porzucić, opuścić |
-| add | dodać |
-| admit | przyznać |
-| apologise | przepraszać |
-| assure | zapewnić |
-| beg | błagać |
-| blame | obwiniać |
-| brat | bachor |
-| claim | twierdzić |
-| congratulate | pogratulować |
-| convince | przekonać |
-| demand | żądanie |
-| deny | zaprzeczać, odmawiać |
-| encourage | zachęcać |
-| explain | wytłumaczyć |
-| family counselling | terapia rodzinna |
-| financial support | wsparcie finansowe |
-| fund | finansować |
-| household rules | zasady obowiązujące w domu |
-| insist | upierać się, nalegać |
-| neglected | zaniedbany, opuszczony |
-| object | nie zgadzać się |
-| order | kazać |
-| persuade | przekonać |
-| reckon | sądzić, myśleć |
-| remind | przypomnieć |
-| relax the rules | zmienić zasady na łagodniejsze |
-| spoilt | rozpuszczony, rozpieszczony |
-| sue sb | złożyć pozew sądowy przeciwko komuś |
-| suggest | sugerować |
-| take sb to court | podać kogoś do sądu |
-| turn eighteen | skończyć osiemnaście lat |
-| urge | przekonywać, zalecać |
-| voluntarily | dobrowolnie |
-| warn | ostrzec |
-| work things out | rozwiązać problem, dogadać się z kimś |
+| English            | Polish                                |
+| :----------------- | :------------------------------------ |
+| abandon            | porzucić, opuścić                     |
+| add                | dodać                                 |
+| admit              | przyznać                              |
+| apologise          | przepraszać                           |
+| assure             | zapewnić                              |
+| beg                | błagać                                |
+| blame              | obwiniać                              |
+| brat               | bachor                                |
+| claim              | twierdzić                             |
+| congratulate       | pogratulować                          |
+| convince           | przekonać                             |
+| demand             | żądanie                               |
+| deny               | zaprzeczać, odmawiać                  |
+| encourage          | zachęcać                              |
+| explain            | wytłumaczyć                           |
+| family counselling | terapia rodzinna                      |
+| financial support  | wsparcie finansowe                    |
+| fund               | finansować                            |
+| household rules    | zasady obowiązujące w domu            |
+| insist             | upierać się, nalegać                  |
+| neglected          | zaniedbany, opuszczony                |
+| object             | nie zgadzać się                       |
+| order              | kazać                                 |
+| persuade           | przekonać                             |
+| reckon             | sądzić, myśleć                        |
+| remind             | przypomnieć                           |
+| relax the rules    | zmienić zasady na łagodniejsze        |
+| spoilt             | rozpuszczony, rozpieszczony           |
+| sue sb             | złożyć pozew sądowy przeciwko komuś   |
+| suggest            | sugerować                             |
+| take sb to court   | podać kogoś do sądu                   |
+| turn eighteen      | skończyć osiemnaście lat              |
+| urge               | przekonywać, zalecać                  |
+| voluntarily        | dobrowolnie                           |
+| warn               | ostrzec                               |
+| work things out    | rozwiązać problem, dogadać się z kimś |
 
 ### 5.6 Speaking
 
