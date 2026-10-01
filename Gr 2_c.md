@@ -10,23 +10,29 @@
     - **Absolutyzm oświecony** — system rządów jednostki, która jest ograniczona prawami boskimi i prawami, które sama ustanawia, ale uznaje zasady umowy społecznej i wprowadza reformy zgodne z ideami oświecenia (dba o oświatę, daje poddanym wolności). Władca uważa się za „sługę państwa”. Przykłady: Fryderyk II, Maria Teresa, Józef II.
         
 2. **Wymień reformy józefińskie (7 reform)**
-    
+
     1. Pozbawienie szlachty i duchowieństwa przywilejów podatkowych i nałożenie na nich stałego podatku dochodowego.
-    2. Ograniczenie sądownictwa patrymonialnego (1781) — chłop mógł odwołać się od wyroku pana do sądu państwowego.
-    3. Wzmocnienie władzy centralnej — Rada Państwa (utworzona jeszcze za Marii Teresy): organ doradczy władcy w sprawach wewnętrznych, zagranicznych i skarbowych.
-    4. Ograniczenie Kościoła — zakaz wysyłania danin do Rzymu, kasata zakonów kontemplacyjnych (1782) i likwidacja ok. 1/3 klasztorów; z ich majątku — seminaria duchowne i pensje dla księży.
-    5. Patent tolerancyjny (1781) — protestanci i prawosławni otrzymali wolność wyznania i prawa obywatelskie równe katolikom.
-    6. Nadanie chłopom wolności osobistej (1781) — prawo wyboru miejsca zamieszkania.
-    7. Germanizacja — język niemiecki urzędowym (1784) i obowiązkowym w szkołach.
+
+    2. Likwidacja sądownictwa patrymonialnego (władza sądowa pana nad chłopem): chłop był sądzony przez sądy państwowe.
+
+    3. Wzmocnienie władzy centralnej, czyli Rada Państwa: organ doradczy dla króla, w ramach którego było Ministerstwo Spraw Wewnętrznych, Ministerstwo Spraw Zagranicznych i Skarbu.
+
+    4. Ograniczenie Kościoła: zakaz wysyłania danin do Rzymu, skasowanie zakonów kontemplacyjnych, ograniczenie świąt kościelnych, utrudnienia we wstępowaniu do klasztorów i likwidacja ok. 1/3 klasztorów. Z ich majątku stworzono fundusz religijny, z którego finansowano sieć seminariów duchownych i pensje dla księży.
+
+    5. Patent tolerancyjny (1781): zrównanie praw katolików z protestantami.
+
+     6. Wolność osobista dla chłopów, czyli prawo wyboru miejsca zamieszkania.
+
+    7. Germanizacja: nakaz używania języka niemieckiego w szkołach i urzędach
     
-3. **Opisz reformy Fryderyka Wilhelma I „Króla Kaprala”**
+4. **Opisz reformy Fryderyka Wilhelma I „Króla Kaprala”**
     
     - **Kantonalny system rekrutacji (1733)** — Prusy podzielono na okręgi wojskowe (kantony), każdy wystawiał i wyposażał oddział piechoty lub jazdy. Służyli chłopi i mieszczanie, z wyjątkiem właścicieli gospodarstw i warsztatów oraz ich najstarszych synów.
     - **Opieka państwa nad żołnierzami** — ranni dostawali pracę, rodziny i sieroty — opiekę państwa.
     - **Rozbudowa armii** — z ok. 40 do 80 tys. żołnierzy; na wojsko szło ok. 80% budżetu.
     - **Profesjonalna biurokracja** — wykształceni urzędnicy, urzędy kolegialne, działanie według prawa; wzór dla całej Europy.
     
-4. **Założenia teorii trójpodziału władzy Monteskiusza**
+5. **Założenia teorii trójpodziału władzy Monteskiusza**
     
     - Władzę w państwie należy podzielić na trzy niezależne części („O duchu praw”, 1748):
         - **ustawodawczą** — parlament (dziś w Polsce: Sejm i Senat), uchwala prawo;
