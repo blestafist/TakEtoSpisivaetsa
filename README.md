@@ -17,13 +17,13 @@ The collection follows the Polish school curriculum and includes material in Pol
 
 ## Study materials
 
-| Material | Description |
-| --- | --- |
-| **Notes** | Topic summaries, definitions, formulas, and reference tables. |
-| **Practice** | Exercises, worked solutions, and test preparation. |
-| **Language resources** | Vocabulary, grammar notes, essays, and writing assignments. |
-| **Literature and history** | Text analysis, character studies, and historical overviews. |
-| **AI prompts** | Instructions for transcribing printed and handwritten text, formatting notes, generating exercises, and checking answers. |
+| Material                   | Description                                                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Notes**                  | Topic summaries, definitions, formulas, and reference tables.                                                             |
+| **Practice**               | Exercises, worked solutions, and test preparation.                                                                        |
+| **Language resources**     | Vocabulary, grammar notes, essays, and writing assignments.                                                               |
+| **Literature and history** | Text analysis, character studies, and historical overviews.                                                               |
+| **AI prompts**             | Instructions for transcribing printed and handwritten text, formatting notes, generating exercises, and checking answers. |
 
 ## Subjects
 
@@ -39,3 +39,17 @@ The collection follows the Polish school curriculum and includes material in Pol
 Most notes are written in Markdown and maintained in Obsidian. They can be read directly on GitHub, though internal note links and some formatting work best in Obsidian.
 
 > These are working notes, not a complete textbook. Coverage varies, and some content is AI-assisted. Check answers and explanations against course materials when needed.
+
+---
+
+<p align="center">
+  <img src=".github/assets/badge-markdown.svg" alt="Markdown" width="168" height="44">
+  &nbsp;
+  <img src=".github/assets/badge-obsidian.svg" alt="Obsidian" width="168" height="44">
+  &nbsp;
+  <img src=".github/assets/badge-github.svg" alt="GitHub" width="168" height="44">
+</p>
+
+<p align="center">
+  <sub><i>TakEtoSpisivaetsa</i> is a transliteration of the Russian «Так это списывается» — roughly, “So that's how you copy the answers.” In a school context, <i>spisyvat'</i> means copying someone else's work.</sub>
+</p>
