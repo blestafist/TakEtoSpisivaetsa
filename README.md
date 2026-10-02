@@ -6,6 +6,14 @@
 </p>
 
 <p align="center">
+  <img src=".github/assets/badge-markdown.svg" alt="Markdown" width="168" height="44">
+  &nbsp;
+  <img src=".github/assets/badge-obsidian.svg" alt="Obsidian" width="168" height="44">
+  &nbsp;
+  <img src=".github/assets/badge-github.svg" alt="GitHub" width="168" height="44">
+</p>
+
+<p align="center">
   <sub>Markdown &nbsp;·&nbsp; Obsidian &nbsp;·&nbsp; Polish school curriculum</sub>
 </p>
 
@@ -41,14 +49,6 @@ Most notes are written in Markdown and maintained in Obsidian. They can be read 
 > These are working notes, not a complete textbook. Coverage varies, and some content is AI-assisted. Check answers and explanations against course materials when needed.
 
 ---
-
-<p align="center">
-  <img src=".github/assets/badge-markdown.svg" alt="Markdown" width="168" height="44">
-  &nbsp;
-  <img src=".github/assets/badge-obsidian.svg" alt="Obsidian" width="168" height="44">
-  &nbsp;
-  <img src=".github/assets/badge-github.svg" alt="GitHub" width="168" height="44">
-</p>
 
 <p align="center">
   <sub><i>TakEtoSpisivaetsa</i> is a transliteration of the Russian «Так это списывается» — roughly, “So that's how you copy the answers.” In a school context, <i>spisyvat'</i> means copying someone else's work.</sub>
