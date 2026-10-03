@@ -140,7 +140,13 @@ Dramat pokazuje również ogromny wpływ historii na współczesnych Polaków. B
 
 **Kosynierzy i kosy** – gotowość chłopów do walki oraz nawiązanie do tradycji powstańczej.
 
-**Złota podkowa** – szczęście i niezwykła szansa, która zamiast zostać wykorzystana zostaje schowana.
+**Złota podkowa** – szczęście zatrzymane dla własnego domu. Znajduje ją Staszek, oddaje Gospodarzowi, a ten przekazuje Gospodyni; ona chowa ją w skrzyni.
+
+**Sznur** – pozostałość po zgubionym rogu; zniewolenie, rozpacz i utrata szansy.
+
+**Kaduceusz** – znak przywództwa wręczony Dziennikarzowi przez Stańczyka; ironiczny komentarz do publicystyki, która zamiast budzić naród podtrzymuje jego bezwład.
+
+**Chata** – polskie społeczeństwo w miniaturze; wspólna przestrzeń nie usuwa podziałów.
 
 ---
 
@@ -153,3 +159,51 @@ Chłopi mają energię i są gotowi do walki, inteligencja posiada wiedzę i św
 Kiedy pojawia się wyjątkowa szansa w postaci misji Wernyhory, zostaje zmarnowana przez brak odpowiedzialności, organizacji i koncentracji na wspólnym celu.
 
 Dlatego finałowy chocholi taniec staje się obrazem całego społeczeństwa: naród posiada siłę i możliwość odrodzenia, ale pozostaje uśpiony i niezdolny do działania.
+
+---
+
+## „Czy znam lekturę?” — powtórka z grupy B
+
+Odpowiedzi na pytania ze sfotografowanego arkusza, z uwzględnieniem poprawek nauczyciela:
+
+| Nr | Pytanie lub zagadnienie | Poprawna odpowiedź |
+| --- | --- | --- |
+| **1** | Co rozpoczyna utwór? | **Didaskalia** — opis dekoracji i sytuacji scenicznej. |
+| **2** | Gdzie odbywa się wesele? | **Bronowice pod Krakowem**, w chacie Gospodarza. |
+| **3** | Kto spośród Gospodarza, Nosa, Czepca i Pana Młodego nie należy do inteligencji? | **Czepiec**, przedstawiciel chłopów. |
+| **4** | Jaka zjawa ukazuje się Panu Młodemu? O co oskarża ją Chór i jaka spotyka ją kara? | **Hetman Franciszek Ksawery Branicki**. Chór zarzuca mu **zdradę narodową i zaprzedanie kraju Moskwie za złoto**. Diabły piją jego krew, szarpią ciało i wnętrzności; **złoto pali go i jest wlewane do ust**. |
+| **5** | Jak dopasować zjawy do postaci? | **Dziad — Upiór Jakuba Szeli; Poeta — Rycerz, Zawisza Czarny; Dziennikarz — Stańczyk.** |
+| **6** | Kto znajduje podkowę, komu ją oddaje i co dzieje się dalej? | **Staszek → Gospodarz → Gospodyni → skrzynia**. Podkowa oznacza szczęście; schowanie jej wyraża pierwszeństwo prywatnego interesu nad wspólną sprawą. |
+| **7** | Na kogo czekają weselnicy pod koniec dramatu? | Na **Wernyhorę**, który ma przybyć z Archaniołem. Wraca jednak **Jasiek bez złotego rogu**. |
+| **8a** | Bronowice leżą pod Lwowem. | **Fałsz** — pod Krakowem. |
+| **8b** | Marysi ukazuje się Widmo w akcie II. | **Prawda**. |
+| **8c** | Isia i Haneczka są córkami Radczyni. | **Fałsz** — Isia jest córką Gospodarzy, Haneczka siostrą Pana Młodego. |
+| **8d** | Karczmarz jest ojcem Racheli. | **Prawda**. |
+
+**Najczęstsze pułapki:** w pytaniu o Hetmana Chór oskarża **zjawę**, a nie Pana Młodego. Kara obejmuje **palące złoto**, nie tylko rozszarpywanie. W odpowiedzi o podkowie nie wolno pominąć **Gospodarza jako pośrednika**. Oczekiwanym gościem jest **Wernyhora**, chociaż na scenę wraca Jasiek.
+
+## Gdzie szukać rozwinięcia
+
+- [[info_ogolne]] — geneza, trzy konwencje, didaskalia i teatr totalny.
+- [[bohaterowie]] — pierwowzory, zachowanie postaci i relacje rodzinne.
+- [[streszczenie]] — trzy akty oraz dokładna tabela scen I–XIV.
+- [[symbole_i_widma]] — wszystkie zjawy, symbole, kara Hetmana i obieg podkowy.
+- [[problematyka_i_interpretacja]] — chłopi i inteligencja, mity, romantyzm oraz konteksty do rozprawki.
+- [[Mloda polska]] — pojęcia epoki, kierunki, gatunki i motywy.
+
+## Materiały uzupełniające
+
+Włączono treść 42 fotografii z `polski.zip` do istniejących notatek; powtarzające się slajdy połączono:
+
+| Zdjęcia | Miejsce opracowania |
+| --- | --- |
+| **1–3, 5–7, 11–26** | *Młoda Polska*: definicje, filozofia, mapa myśli, gatunki, motywy i przykłady. |
+| **4** | *Symbole i widma*: przedmioty symboliczne. |
+| **8–10, 27–29** | *Informacje ogólne* oraz *Problematyka*: budowa, obie grupy społeczne i mity. |
+| **30–34** | *Streszczenie* i *Bohaterowie*: pierwsze czternaście scen. |
+| **35** | Powyższa powtórka kontrolna oraz doprecyzowania podkowy, Hetmana i finału. |
+| **36–37** | *Problematyka*: nawiązania do romantyzmu. |
+| **38** | *Informacje ogólne*: teatr totalny. |
+| **39–42** | *Problematyka*: literatura, malarstwo, film i muzyka. |
+
+Szczegóły wydarzeń sprawdzono również w [tekście „Wesela” w Wolnych Lekturach](https://wolnelektury.pl/katalog/lektura/wesele.html).

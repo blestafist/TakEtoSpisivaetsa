@@ -14,6 +14,25 @@ W pozostałych rozmowach wychodzą na jaw urazy i zależności, których nie prz
 
 Rachela, córka karczmarza, dostrzega w nocy niezwykły nastrój. Podsuwa Poecie pomysł zaproszenia „wszystkich dziwów”; Poeta namawia do tego Parę Młodą. Na żarty zapraszają również Chochoła, czyli słomianą osłonę krzewu róży stojącego w sadzie. Ten gest okaże się przełomem: odtąd chata otworzy się na widma i historię.
 
+### Akt I, sceny I–XIV — dokładniejsza powtórka
+
+| Scena | Rozmówcy | Co się dzieje i co to pokazuje |
+| --- | --- | --- |
+| **I** | Czepiec, Dziennikarz | Czepiec pyta o sytuację w Chinach; czyta gazety i interesuje się polityką. Dziennikarz zbywa go, pragnąc spokojnej, odizolowanej od świata wsi. |
+| **II** | Dziennikarz, Zosia | Dziennikarz flirtuje; Zosia rozpoznaje salonową grę i zachowuje ironiczny dystans. |
+| **III** | Radczyni, Haneczka, Zosia | Dziewczęta chcą tańczyć z chłopskimi drużbami. Radczyni próbuje ograniczyć ich zbliżenie do wiejskich gości. |
+| **IV** | Radczyni, Klimina | Klimina proponuje swatanie syna Radczyni z dziewczyną ze wsi. Radczyni podkreśla oddzielność środowisk: każdy żyje we własnym świecie. |
+| **V** | Zosia, Kasper | Żartobliwy flirt i zainteresowanie młodym drużbą. |
+| **VI** | Haneczka, Jasiek | Rozmowa w rytmie zabawy, wzajemne zaciekawienie i flirt. |
+| **VII** | Radczyni, Klimina | Pytanie o siew w listopadzie zdradza nieznajomość kalendarza prac polowych. Klimina odpowiada z humorem. |
+| **VIII** | Ksiądz, Pan Młody, Panna Młoda | Ksiądz mówi o chłopskim pochodzeniu, dystansie elit i ambicji zostania kanonikiem. Panna Młoda komentuje to bezpośrednio; Pan Młody tłumaczy jej prostolinijność. |
+| **IX** | Pan Młody, Panna Młoda | Poetyckie zachwyty męża spotykają się z praktycznym sposobem myślenia żony. |
+| **X** | Poeta, Maryna | Flirt i kunsztowna gra słowna. Maryna wyczuwa, że efektowne słowa nie muszą oznaczać prawdziwego uczucia. |
+| **XI** | Ksiądz, Pan Młody, Panna Młoda | Ksiądz przestrzega, że miłość przemija, lecz nowożeńcy nie przyjmują tej perspektywy. |
+| **XII** | Pan Młody, Panna Młoda | Pannę Młodą uwierają buty. Mąż radzi tańczyć boso, ona przypomina zwyczaj: na weselu trzeba być w butach. |
+| **XIII** | Ksiądz, Pan Młody | Rozmowa o marzeniach i aspiracjach; Pan Młody podkreśla, że serce prowadzi go do szczęścia. |
+| **XIV** | Radczyni, Maryna | Radczyni próbuje poskromić śmiałość i żywiołowość młodej rozmówczyni. |
+
 ## Akt II — zjawy i wezwanie Wernyhory
 
 Po północy pojawia się Chochoł. Isia, córka Gospodarzy, próbuje go przepędzić. Następne zjawy nie ukazują się wszystkim naraz: każda przychodzi do konkretnego bohatera i uderza w jego pamięć albo sposób myślenia o Polsce.
@@ -22,14 +41,18 @@ Marysi ukazuje się Widmo Ludwika de Laveaux, dawnego narzeczonego, który zmar�
 
 Poecie ukazuje się Rycerz, Zawisza Czarny. Uosabia odwagę i moc, o której artysta pisze, ale której sam nie posiada. Spotkanie konfrontuje marzenie o poecie prowadzącym naród z dekadencką bezsilnością. Pan Młody widzi Hetmana Branickiego, targowiczanina kojarzonego ze zdradą ojczyzny. Gdy nazywa go zdrajcą, Hetman prowokacyjnie wypomina mu małżeństwo z chłopką jako rzekomą zdradę własnej klasy. Ta scena wydobywa lęki ukryte pod zachwytem Pana Młodego. Dziadowi ukazuje się zakrwawiony Upiór — Jakub Szela, przywódca rabacji. Prosi o wodę, by zmyć krew; przypomina, że pozorne pojednanie nie usuwa krzywd z przeszłości.
 
-Najważniejszy gość przychodzi do Gospodarza. Jest nim Wernyhora, legendarny ukraiński wieszcz. Powierza Gospodarzowi zadanie przygotowania powstania: trzeba rozesłać wici, zebrać chłopów z bronią i czekać na sygnał. Daje mu złoty róg, którego głos ma wezwać ludzi do czynu. Gospodarz przekazuje róg młodemu Jaśkowi i wysyła go do okolicznych wsi. Potem sam zasypia, zamiast czuwać nad przygotowaniami. Koń odjeżdżającego Wernyhory gubi złotą podkowę. Gospodyni znajduje ją i zamyka w skrzyni, licząc na szczęście dla własnego domu. Gospodarz wypowiada też gorzkie słowa pod adresem miejskich gości: ich fascynacja ludem często kończy się na pozach i „szopce”.
+Najważniejszy gość przychodzi do Gospodarza. Jest nim Wernyhora, legendarny ukraiński wieszcz. Powierza Gospodarzowi zadanie przygotowania powstania: trzeba rozesłać wici, zebrać chłopów z bronią i czekać na sygnał. Daje mu złoty róg, którego głos ma wezwać ludzi do czynu. Gospodarz przekazuje róg młodemu Jaśkowi i wysyła go do okolicznych wsi. Potem sam zasypia, zamiast czuwać nad przygotowaniami. Koń odjeżdżającego Wernyhory gubi złotą podkowę. **Staszek znajduje ją i podaje Gospodarzowi. Gospodarz przekazuje ją Gospodyni, która chowa ją w skrzyni**, licząc na szczęście dla własnego domu. Gospodarz wypowiada też gorzkie słowa pod adresem miejskich gości: ich fascynacja ludem często kończy się na pozach i „szopce”.
 
 ## Akt III — oczekiwanie i chocholi taniec
 
 Nad ranem zmęczeni weselnicy snują się po chacie. Nos mówi w pijackim nastroju o sztuce i narodzie, Czepiec domaga się dalszej muzyki, a inni wracają do nocnych rozmów. Panna Młoda opowiada Poecie sen: jechała złotą karetą do Polski i pytała, gdzie ta Polska jest. Poeta każe jej położyć rękę na sercu: „A to Polska właśnie”. Ojczyzna staje się tutaj wewnętrznym doświadczeniem, lecz uczucie samo nie rozwiązuje problemu wspólnego działania.
 
-Wiadomość o Wernyhorze zaczyna krążyć między gośćmi. Czepiec przychodzi z chłopami uzbrojonymi w kosy postawione na sztorc. Są gotowi do walki i chcą rozkazów. Czepiec usiłuje dobudzić Gospodarza, który niewiele pamięta i nie obejmuje przywództwa. Napięcie rośnie: ludzie dostrzegają na niebie dziwne obrazy, słyszą odgłosy, wypatrują znaków przełomu. Wyobraźnia podsuwa im wizje rycerzy, krwi i wielkiego wydarzenia. Zgromadzeni zastygają w oczekiwaniu na sygnał, który miał ich porwać do czynu.
+Wiadomość o Wernyhorze zaczyna krążyć między gośćmi. Czepiec przychodzi z chłopami uzbrojonymi w kosy postawione na sztorc. Są gotowi do walki i chcą rozkazów. Czepiec usiłuje dobudzić Gospodarza, który niewiele pamięta i nie obejmuje przywództwa. Napięcie rośnie: ludzie dostrzegają na niebie dziwne obrazy, słyszą odgłosy, wypatrują znaków przełomu. Wyobraźnia podsuwa im wizje rycerzy, krwi i wielkiego wydarzenia. Zgromadzeni oczekują powrotu **Wernyhory, który ma przybyć z Archaniołem**, i sygnału do czynu. Wypatrywanie cudownego posłańca zastępuje samodzielną organizację działania.
 
 Wraca Jasiek, ale nie ma złotego rogu. Gdy jechał z wiadomością, schylił się po czapkę z pawich piór i zgubił powierzony mu przedmiot. Próbuje obudzić weselników i przypomnieć im o broni, lecz bez rogu nie potrafi ich poderwać. Pojawia się Chochoł. Każe Jaśkowi powyjmować ludziom kosy i szable z rąk, zestawić ich w pary, a następnie gra do tańca. Goście poruszają się powoli i bezwiednie w rytm jego muzyki. Nawet pianie koguta i krzyki Jaśka nie wyrywają ich z odrętwienia. Chochoł wypomina mu zgubę: „Miałeś, chamie, złoty róg”.
 
 Finał nie mówi jedynie o błędzie Jaśka. Róg został zgubiony przez jednego człowieka, ale Gospodarz wcześniej oddał mu odpowiedzialność i zasnął, goście zaś czekali biernie na cudowny znak. Chłopi przyszli z kosami, lecz nie znaleźli nikogo, kto umiałby poprowadzić wspólne działanie. Chocholi taniec zamyka dramat obrazem społeczeństwa, które ma marzenia i energię, ale nie potrafi przekuć ich w czyn.
+
+## Materiały
+
+Szczegółowa powtórka scen I–XIV: zdjęcia 30–34 z `polski.zip`; doprecyzowanie podkowy i oczekiwania w finale: zdjęcie 35 oraz [tekst dramatu w Wolnych Lekturach](https://wolnelektury.pl/katalog/lektura/wesele.html). Znaczenia zjaw i przedmiotów: [[symbole_i_widma]].
