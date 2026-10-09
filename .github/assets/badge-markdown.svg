@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="44" viewBox="0 0 168 44" role="img" aria-labelledby="title">
+  <title id="title">Markdown</title>
+  <defs>
+    <linearGradient id="background" x2="0" y2="1">
+      <stop stop-color="#1b2230"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="167" height="43" rx="9" fill="url(#background)" stroke="#30394a"/>
+  <path transform="translate(18 10)" fill="#c9d1d9" d="M22.27 19.385H1.73A1.73 1.73 0 010 17.655V6.345a1.73 1.73 0 011.73-1.73h20.54A1.73 1.73 0 0124 6.345v11.308a1.73 1.73 0 01-1.73 1.731zM5.769 15.923v-4.5l2.308 2.885 2.307-2.885v4.5h2.308V8.078h-2.308l-2.307 2.885-2.308-2.885H3.46v7.847zM21.232 12h-2.309V8.077h-2.307V12h-2.308l3.461 4.039z"/>
+  <text x="54" y="27" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500">Markdown</text>
+</svg>
