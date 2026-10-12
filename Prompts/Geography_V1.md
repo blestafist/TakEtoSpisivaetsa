@@ -57,8 +57,11 @@
 	- are 100% correct and complete;
 	- are fully identical in meaning and content (the same facts, arguments, examples);
 	- are equally natural and human-sounding;
-	- differ only in wording (different words, different order, different sentence structure).
-- Forbidden: making one version the "main" one and the others "backups"; making one version more correct, more complete, or more human-sounding; adding facts to one version that are not in another.
+	- differ only in wording (different words, different order, different sentence structure);
+	- would receive exactly the same grade from the strictest examiner — none is better or worse in any way.
+- **Same subject terms in every version.** Geographic and technical terms (e.g. "okres nadmiaru / niedoboru", "przepływ", "zagrożenie powodziowe", "retencja", names, numbers, units) appear in ALL versions, unchanged. Paraphrase only the wording around them (sentence structure, order, connectors, ordinary verbs). Never replace a subject term with an everyday expression (e.g. "w okresie nadmiaru" → "gdy jest jej dużo" is forbidden).
+- **Same register.** All versions use the same level of language — equally formal, equally precise, equally "textbook". No version may sound more casual or simpler than another.
+- Forbidden: making one version the "main" one and the others "backups"; making one version more correct, more complete, more precise, more terminological, or more human-sounding; adding facts to one version that are not in another.
 
 ### 4.3. Map tasks — see section 7 (when to draw a map: 7.1; the blank map is the attached file `poland_blank.svg`).
 
