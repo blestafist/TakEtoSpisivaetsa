@@ -40,6 +40,13 @@
 
 ---
 
+### Multi-step tasks
+- Across all subjects, if working is requested or normally required for credit, include a concise, copy-ready solution, not just the result: necessary formula or rule, substitutions or transformations, essential intermediate results, and final answer with units where applicable. These are solution steps, not internal reasoning.
+- Put essential steps on separate lines. Keep them in the test language; omit commentary, alternative methods, and trivial steps. Brevity and answer-line limits must not remove work needed for credit.
+- A task requiring several internal steps does not automatically require showing them. For multiple choice, gap filling, translations, and sentence transformations, give only the requested answer unless the task or mod requires working or explanation.
+
+---
+
 ### Binds
 
 The following table contains the commands that can be used to control the AI's behavior during task processing (`[N]` refers to the task number, can be written together, for ex. 1i):
