@@ -1,34 +1,18 @@
 # Unit 6 — A matter of fact
 
-## Contents
-
-- [Grammar Focus — Conditional clauses: alternatives to if](#grammar-focus--conditional-clauses-alternatives-to-if)
-- [Grammar Focus — Mixed conditionals](#grammar-focus--mixed-conditionals)
-- [Speaking Focus](#speaking-focus)
-- [Language Focus — Compound nouns and adjectives](#language-focus--compound-nouns-and-adjectives)
-- [Writing Focus — A review](#writing-focus--a-review)
-- [Model review — Stranger Things](#model-review--stranger-things)
-- [Language Focus — Adjectives for reviews](#language-focus--adjectives-for-reviews)
-- [Vocabulary — English–Polski](#vocabulary--englishpolski)
-
 ---
 
 ## Grammar Focus — Conditional clauses: alternatives to if
 
-*Page 86*
-
 - You use **unless** to mean ‘if not’ with the sense ‘except if’.
-
   > I wouldn’t lie to you **unless it was necessary**.  
   > (= … if it wasn’t necessary.)
 
 - You use **imagine** or **suppose/supposing** to ask questions.
-
   > **Imagine you were getting married**, how would you feel?  
   > (= If you were getting married, …)
 
 - You use **provided/providing** to create a condition.
-
   > I’ll lend you €10 **provided you pay me back** tomorrow.  
   > (= if you pay me back …)
 
@@ -45,8 +29,6 @@
 ---
 
 ## Grammar Focus — Mixed conditionals
-
-*Page 90*
 
 You use a **mixed conditional** to describe certain imaginary situations and their imaginary results. There are two main types:
 
@@ -146,13 +128,13 @@ The goal of a review is to give your personal opinion about something, e.g. a fi
 
 ## Model review — Stranger Things
 
-**1** Take a **nostalgic** journey back to small-town America in the 1980s with Netflix’s dark mystery *Stranger Things*. This excellent show is heavily influenced by the books and films of Stephen King and Steven Spielberg. Series creators, the Duffer brothers, have combined action, humour and horror to create a **well-reviewed** sci-fi drama. As far as I’m concerned, it’s a TV classic.
+Take a **nostalgic** journey back to small-town America in the 1980s with Netflix’s dark mystery *Stranger Things*. This excellent show is heavily influenced by the books and films of Stephen King and Steven Spielberg. Series creators, the Duffer brothers, have combined action, humour and horror to create a **well-reviewed** sci-fi drama. As far as I’m concerned, it’s a TV classic.
 
-**2** In season one of *Stranger Things*, a schoolboy named Will goes missing. His friends, mother and the rest of the town become part of a series of mysterious events involving an unusual young girl named Eleven. It soon becomes clear that something even stranger is hiding in the woods of their town. In season two, the town and its inhabitants are once again threatened by supernatural forces and we are reminded that the worst villains are not always the monsters. Season three not only presents a continuation of this theme, but also shows how the main characters and their relationships have developed with time.
+In season one of *Stranger Things*, a schoolboy named Will goes missing. His friends, mother and the rest of the town become part of a series of mysterious events involving an unusual young girl named Eleven. It soon becomes clear that something even stranger is hiding in the woods of their town. In season two, the town and its inhabitants are once again threatened by supernatural forces and we are reminded that the worst villains are not always the monsters. Season three not only presents a continuation of this theme, but also shows how the main characters and their relationships have developed with time.
 
-**3** *Stranger Things* is a brilliant show with an **unforgettable** soundtrack. The plot explores friendships, family ties and even romance. The young cast give wonderful performances and the show is beautifully shot. Unlike many modern shows, it doesn’t rely too heavily on special effects. While season one is not particularly scary, season two is more strongly influenced by horror films and is **terrifying** at times.
+*Stranger Things* is a brilliant show with an **unforgettable** soundtrack. The plot explores friendships, family ties and even romance. The young cast give wonderful performances and the show is beautifully shot. Unlike many modern shows, it doesn’t rely too heavily on special effects. While season one is not particularly scary, season two is more strongly influenced by horror films and is **terrifying** at times.
 
-**4** All in all, *Stranger Things* offers viewers a **gripping** story with plenty of twists and turns. From the opening scene, it feels as though you are watching a future TV classic. I can’t recommend it enough and have no doubt that people will be talking about it for many years to come.
+All in all, *Stranger Things* offers viewers a **gripping** story with plenty of twists and turns. From the opening scene, it feels as though you are watching a future TV classic. I can’t recommend it enough and have no doubt that people will be talking about it for many years to come.
 
 ---
 
@@ -171,16 +153,14 @@ Use a range of adjectives to make your review interesting.
 | liked by critics | **well-reviewed** |
 | easy to guess | **predictable** |
 
-### Practice
+### Examples
 
-In your notebook, complete the sentences with the most suitable adjective from the LANGUAGE FOCUS. Use each adjective only once.
-
-1. This comedy is **hilarious**. It will have you laughing out loud.
-2. Although the show was **well-reviewed** on several TV websites, we found it average at best.
-3. For me this series is **unforgettable**. I haven’t stopped thinking about it since I finished watching it.
-4. This show takes a **nostalgic** look at life in the UK in the 1920s.
-5. Don’t watch this zombie series alone because it is truly **terrifying**.
-6. This **predictable** sitcom is no different to a thousand others you’ve seen before.
+- This comedy is **hilarious**. It will have you laughing out loud.
+- Although the show was **well-reviewed** on several TV websites, we found it average at best.
+- For me this series is **unforgettable**. I haven’t stopped thinking about it since I finished watching it.
+- This show takes a **nostalgic** look at life in the UK in the 1920s.
+- Don’t watch this zombie series alone because it is truly **terrifying**.
+- This **predictable** sitcom is no different to a thousand others you’ve seen before.
 
 ---
 
