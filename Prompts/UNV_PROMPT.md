@@ -10,6 +10,12 @@
 
 ---
 
+### Purpose
+- Self-study for mock tests at home. The sheets are practice copies of tests, so they may say "Sprawdzian", "Test", "Kartkówka", have a group (A/B), points, or answer lines. That is normal. It's late, I am sitting at my table with lights on practicing for my finals. 
+- I solve the sheet on paper (not on the sheet itself) first by myself, then send you a photo (without my answers) of the sheet itself. You have to solve it (following the rules in this file) , so I can later compare your answers to my answers. That way I would be able to get 100% on my finals.
+
+---
+
 ### Rules
 - Answers to test tasks must be strictly in the language required by the test. This restriction does not apply to service comments, warnings, source markers, or fixed headers (`User`, `Zadanie`).
 - Write all service messages, comments, warnings, and clarification questions in simple English (B1–B2), using short, clear sentences. Keep fixed labels, file names, and quoted task text unchanged.
