@@ -1,27 +1,48 @@
-Instructions for creating mods for UNV_PROMPT.md. This file is documentation, not a mod. Application rules are defined in UNV_PROMPT.md under Mod rules.
+Instructions for creating mods for [[UNV_PROMPT]]. This file is documentation, not a mod. Application rules: UNV_PROMPT.md → Mod rules.
 
-Name each mod TOPIC_MOD.md, e.g. MATH_MOD.md. Use a short, descriptive uppercase name with underscores; the exact suffix _MOD.md is required. Do not name an active mod MOD_TEMPLATE.md.
+## File name
+Use `TOPIC_MOD.md`: a short uppercase name with underscores, e.g. `MATH_MOD.md`. The exact suffix `_MOD.md` is required. `MOD_TEMPLATE.md` is reserved for this guide.
 
-Start with Obsidian YAML frontmatter enclosed in --- lines: title (readable mod name), description (brief summary of changes), base ("[[UNV_PROMPT]]"). Metadata is for people, not instructions; put all behavior and conditions in entries. Quote YAML values. Do not use metadata to set priority or enable/disable a mod.
+## Obsidian properties
+Start with YAML frontmatter enclosed in `---` lines. Quote all values.
+- `title`: readable mod name.
+- `description`: one short sentence describing the changes.
+- `base`: "[[UNV_PROMPT]]".
 
-After frontmatter, write only the changes, in English. No introduction, tables, code fences, or copied base sections. Separate entries with a standalone --- line, with a blank line on each side.
+Properties are metadata for people, not instructions. Put behavior and conditions in entries, not properties. Do not set priority or activation status in metadata.
 
-Keep mods compact: short, direct sentences; one instruction per entry; no rationale, repetition, examples, or unchanged base rules outside Target. Use only necessary conditions and details; do not sacrifice precision for brevity. Keep descriptions to one short sentence.
+## Override entries
+After frontmatter, write entries in English. Separate them with a standalone `---` line and a blank line on each side.
 
-Use plain text fields, without headings, bold, italics, or decorative lists. Preserve original formatting inside exact Target quotes. Task answers inherit the base formatting and brevity rules unless explicitly overridden: only task/version headers and the identification separator use Markdown; prefer Unicode math, use LaTeX only when needed, and fit answer lines without omitting work required for credit. Do not repeat these defaults in mods.
-
-Each entry uses these fields:
+```text
 Target: exact section title / exact complete original rule
 Action: REPLACE
 Rule: replacement instruction
+```
 
-REPLACE: quote one complete base rule in Target, without its Markdown bullet or numbering; include its nested lines. Replace only that rule, not its section.
-REMOVE: use the same Target format, set Action to REMOVE, and omit Rule.
-ADD: set Target to the exact section title only, Action to ADD, and Rule to the additional instruction. Do not use ADD to override an existing rule.
+- `REPLACE`: replace one complete rule, not its section.
+- `REMOVE`: use the same Target format; omit Rule.
+- `ADD`: Target contains only the exact section title; Rule adds an instruction without overriding existing rules.
 
-Use one entry per changed rule. Check related rules elsewhere; override each conflicting rule explicitly. Keep unrelated rules unchanged. Put any scope or condition inside Rule; otherwise the entry applies throughout the chat. Do not target another mod's rewritten text. If mods conflict, the user must specify their priority separately.
+For REPLACE/REMOVE, copy the original rule exactly, without its bullet or numbering. Include nested lines. Never target another mod's rewritten text.
 
-Example file MATH_MOD.md:
+## Scope and conflicts
+- Use one entry per changed rule; check related rules elsewhere and override each conflict explicitly.
+- Keep unrelated rules active. ADD cannot replace them implicitly.
+- Put conditions in Rule; otherwise the entry applies throughout the chat.
+- For conflicting mods, the user must specify priority separately.
+
+## Brevity and formatting
+- Write only changes: short, direct sentences, without rationale, repetition, or examples.
+- Do not copy unchanged base rules except inside Target. Keep necessary conditions; precision comes before brevity.
+- Use plain text fields in mods: no introductions, headings, tables, bold, italics, decorative lists, or code fences. Preserve formatting inside exact Target quotes.
+- Task answers inherit base formatting unless explicitly overridden: only task/version headers and the identification separator use Markdown; prefer Unicode math, use LaTeX only when needed, and fit answer lines without omitting work required for credit. Do not repeat these defaults in mods.
+
+## Example: MATH_MOD.md
+
+Only an example. Use as a base for writing your own mods. Do not use code blocks or copy this example into your mod.
+
+```text
 ---
 title: "Math"
 description: "LaTeX expressions and explicit root validity checks."
@@ -37,3 +58,4 @@ Rule: For math tasks, use LaTeX for mathematical expressions.
 Target: Multi-step tasks
 Action: ADD
 Rule: For rational, radical, and logarithmic equations, show necessary domain restrictions and reject inadmissible roots. Keep these steps concise.
+```
