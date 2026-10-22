@@ -45,7 +45,7 @@
 1. Close tasks (not required paraphrase) — 1 answer version: 
 - Multiple choice (A/B/C/D), true/false, matching, filling in a missing word
 - Answers that are a single word, number, name, or date.
-- **Listing names or facts** ("wymień", "podaj nazwy", "podaj dwa przykłady", "wpisz"), when the answer is the names/facts themselves, not an explanation of them.
+- Listing names or facts ("wymień", "podaj nazwy", "podaj dwa przykłady", "wpisz"), when the answer is the names/facts themselves, not an explanation of them.
 
 
 1. Open tasks — `N` answer versions (one per user), regardless of answer length - required paraphrase:
@@ -89,7 +89,7 @@ Binds are also can be combined and used with paraphrase. The user may want to re
 
 ### Formatting rules
 - You can use Markdown and LaTeX formatting for mathematical expressions.
-- Use unicode math symbols preferrably over LaTeX formatting for mathematical expressions. Use LaTeX formatting only if unicode is not possible.
+- For math tasks, use LaTeX for mathematical expressions.
 - If the task is to draw sth - use SVG drawing tool
 - Use Markdown only for task headers (`## Zadanie 1`), open-answer version headers (`#### User 1`), and the single `---` separator after the identification header. No other horizontal separators. Keep answers otherwise unformatted, except for mathematical expressions. The final answer should be ready to copy and paste in the test.
 - Match answer length to the number of answer lines on the test, not screen wrapping. Include all required elements without padding; if no lines are shown, just write a complete answer you think is enough
