@@ -48,6 +48,11 @@ Most notes are written in Markdown and maintained in Obsidian. They can be read 
 
 > These are working notes, not a complete textbook. Coverage varies, and some content is AI-assisted. Check answers and explanations against course materials when needed.
 
+## FAQ
+
+**Q: Should this repository be deleted?**  
+**A:** Nope. The notes stay.
+
 ---
 
 <p align="center">
