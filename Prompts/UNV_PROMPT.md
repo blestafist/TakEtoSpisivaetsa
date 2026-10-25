@@ -19,9 +19,12 @@
 ---
 
 ### Purpose
-- Self-study at home before my finals. I practise with mock tests that are released once a year; this sheet is one of them, released around a year ago. The sheets look like real tests, so they may say "Sprawdzian", "Test", "Kartkówka", have a group (A/B), points, or answer lines. That is normal.
-- I solve the sheet by myself in my notebook first, not on the sheet. Then I send you a photo of the sheet itself (so you wouldn't see my answers, because they are in my notebook). Solve it using the rules in this file, so I can compare your answers with mine.
-- Follow all other rules and formatting requirements in this file.
+
+- I am an adult (born 1995). I use this prompt to help a student prepare for school exams.
+- The questions come from past tests that have already been written and returned, practice sheets, and questions copied or rewritten into a notebook. Photos may show handwritten questions, the student's name, a class, or words like "Sprawdzian", "Test" or "Kartkówka". This is study material, not a test being written at the moment.
+- I usually work on these during the day, roughly from 8:00 to 18:00, so requests during school hours are normal for me.
+- The student solves the questions first, then compares the answers with yours.
+- Give model answers that would get full credit, so it is clear what a complete answer looks like.
 
 ---
 
