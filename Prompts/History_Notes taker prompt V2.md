@@ -1,247 +1,321 @@
-# History Lessons → Full Information — V2
+# History Lessons → Full Information (V2)
 
----
+## 1. Task
 
-## 1. Role
+Turn history lesson recordings into a complete record of the information the teacher gave. It is not a summary, and it is not a copy of the transcript.
 
-You turn history lesson recordings into a **complete record of the information** the teacher gave. It is not a short summary, and it is not a copy of the transcript either.
+Principle: every fact stays, every word that carries no fact goes. The most important content is kept word for word, the rest as short facts, and stories and talk are dropped.
 
-> [!important] The principle
-> **Every fact stays. Every word that carries no fact goes.**
-> Cut the talking, never the information.
-> Key content (reforms, lists, definitions) is never cut at all (see section 3).
+The teacher's tests ask about small details: dates, names, places, numbers, causes, consequences, definitions, complete lists. A missing detail, or one changed by paraphrasing, costs me points.
 
-The teacher's tests ask about small details: **dates, names, places, numbers, causes, consequences, definitions, complete lists**. A missing detail, or one changed by paraphrasing, costs me points.
+The output is a source file that another AI will read later (to quiz me, make flashcards, etc.). It must be complete, exact and consistently formatted. It does not need to read nicely for a human.
 
----
+The file contains only final, resolved information. Every doubt is resolved before the file is written (section 4). The file never contains question marks, conflicts, gaps or "maybe".
 
 ## 2. Input
 
-> [!info] Detect everything yourself
+Detect everything yourself. A batch of lessons, each with:
+- `.srt`: the full Whisper transcript. Complete and usually accurate.
+- `.md`: my timecodes of important moments, sometimes with short labels.
 
-A batch of lessons. Each lesson has:
+Rules:
+1. Pair the files by name, otherwise by order or content.
+2. Work out the topic, the language and the number of lessons yourself.
+3. Accept any timecode format.
 
-| File   | Contents                                                              |
-| ------ | --------------------------------------------------------------------- |
-| `.srt` | The full Whisper transcript. It is complete but contains mishearings. |
-| `.md`  | My timecodes of important moments, sometimes with short labels.       |
+Timecodes are approximate. They mark roughly where something important was said, before or after the timecode.
+1. Search ±3 min around the timecode in both directions. If nothing fits, widen to ±5 min.
+2. Pick the passage that matches the label or topic. If there is no label, pick the most substantive content in that window.
+3. Take the whole passage, from where the topic starts to where it ends, not just the sentence closest to the timecode.
+4. If two passages fit equally well, keep both or ask me.
 
-- Pair the files by name, otherwise by order or content.
-- Work out the topic, the language and the number of lessons yourself.
-- Accept any timecode format.
+Passages at my timecodes are priority 1 (section 3).
 
-### Timecodes are approximate
-My timecodes only mark **roughly where** something important was said. The passage can be **before or after** the timecode.
-- Search **±3 min** around the timecode in both directions. If nothing fits, widen the search to **±5 min**.
-- Pick the passage that matches the label or topic. If there is no label, pick the most substantive content in that window.
-- Take the **whole passage**, from where the topic starts to where it ends, not just the sentence closest to the timecode.
-- If two passages fit equally well, keep both or ask me.
+## 3. Priorities
 
-All information from the lesson goes into the output anyway. Timecodes only tell you what to **highlight** (see section 7).
+### Priority 1: word for word
+What:
+- reforms;
+- lists: causes, effects, goals, points of a treaty/law/constitution, demands;
+- definitions;
+- anything the teacher stresses (see "Stress signals");
+- passages at my timecodes.
 
----
+How: every sentence of hers stays, in her words and in her order, including explanations ("czyli…", "to znaczy…"), examples and side details. Remove only fillers, stutters and word-for-word repeats. Add punctuation.
 
-## 3. What stays and what goes
+Never: summarise, merge, shorten, rephrase.
 
-### Two modes
-Not all content is treated the same. Every passage gets one of two modes:
+### Priority 2: short facts
+What: everything else factual: the course of events, context, background, who did what, causes and effects outside of lists.
 
-| | 🔒 **FULL mode** (key content) | ✂️ **COMPACT mode** (everything else) |
-| --- | --- | --- |
-| **What** | Reforms, lists (causes, effects, goals, points of a treaty/law/constitution, demands), definitions, passages at my timecodes, anything she stresses or dictates | Narrative and background: the story of events, context, transitions between topics, descriptions |
-| **How** | **Nothing is cut or rephrased.** Every sentence of hers stays, in her words and in her order, including explanations ("czyli…", "to znaczy…"), examples, side details and details that seem obvious or repeated with a difference. Only pure fillers, stutters and word-for-word repeats are removed, and punctuation is added. | Shortened **only by deleting** words and sentences that carry no facts. Whatever remains is still her wording. Every fact stays. |
-| **Never** | Summarise, merge, shorten, "clean up" the wording | Synonyms, "in your own words", generalising ("różne reformy" instead of the actual reforms) |
+How: one bullet per fact, in short note form. Shorten only by deleting words, never by rewriting: what remains is still her wording and her terms. Every date, name, place, number, cause and effect stays.
 
-> [!important] When in doubt, use FULL mode.
-> If a passage is even partly about a reform, a list or a definition, the whole passage is FULL.
+Never: synonyms, "in your own words", generalising ("różne reformy" instead of the actual reforms).
 
-### Example: FULL mode (a reform)
+### Priority 3: drop
+What:
+- fillers and tics: "yyy", "no więc", "jakby", "tak?", "prawda?", "słuchajcie", "w sumie", "generalnie";
+- false starts, stutters and repeats. If she says the same fact twice, write it once, but keep every detail from both versions;
+- classroom talk with no facts: "pamiętacie, mówiłam wam", "teraz przejdziemy do", rhetorical questions she then answers (keep the answer);
+- questions to the class: keep only the correct answer she confirms, as a fact. Drop wrong guesses from students;
+- anecdotes, fun stories, digressions, anything "na marginesie";
+- recaps of the previous lesson and summaries at the end: add only new details, at the place where that topic first appears;
+- off-topic: discipline, attendance, jokes, small talk, technical chatter (microphone, board, doors).
 
-> [!example] Transcript
-> No i teraz, słuchajcie, reforma monetarna. On, jakby, przeprowadził reformę monetarną, czyli wprowadził, yyy, grosz krakowski. Grosz krakowski. I to było mniej więcej w 1338, może trochę później, historycy się kłócą. No więc to było po to, żeby ujednolicić pieniądz w kraju, bo wcześniej każda dzielnica miała swój, no i to było strasznie niewygodne dla kupców, bo musieli wymieniać.
+Exception: if dropped content contains a date, name or number not mentioned anywhere else, keep that one fact as a priority 2 bullet.
 
-> [!success] Output
-> - 🔒 **Reforma monetarna**: przeprowadził reformę monetarną, czyli wprowadził **grosz krakowski**.
->   - To było mniej więcej w **1338**, może trochę później, historycy się kłócą.
->   - To było po to, żeby ujednolicić pieniądz w kraju, bo wcześniej każda dzielnica miała swój, i to było strasznie niewygodne dla kupców, bo musieli wymieniać.
+### Borderline cases
+1. When in doubt, go one priority up (3 → 2, 2 → 1).
+2. Only the reform, list or definition itself is priority 1, not the whole story around it.
+3. Before dropping a sentence, ask: "Could this be a test question?" If yes, it stays as at least priority 2.
 
-Every sentence stayed in her words, including "czyli…" and the detail about the merchants. Only "słuchajcie", "jakby", "yyy", "no więc" and the repeated "Grosz krakowski" went.
+### Stress signals
+Always priority 1, marked `[WAŻNE]` at the start of the bullet.
+- She says it's important: "to jest ważne", "to jest kluczowe", "zwróćcie uwagę", "musicie to znać", "pamiętajcie".
+- She mentions the test: "to będzie na sprawdzianie / kartkówce", "o to będę pytać", "to się często pojawia".
+- She dictates or writes it down: "zapiszcie", "zapisuję na tablicy", dictating slowly word by word.
+- She repeats the same thing several times in the lesson. Write it once and mark it.
 
-### Example: COMPACT mode (background)
+Don't write out the signal phrase itself. The marker replaces it.
 
-> [!example] Transcript
-> No i teraz tak, Kazimierz Wielki, tak? Ostatni z Piastów, no, na tronie, bo potem już byli inni, ale o tym za tydzień. Jego ojciec to był Władysław Łokietek, o nim mówiłam wam na poprzedniej lekcji, pamiętacie? No i on, Kazimierz, objął tron w 1333 roku, jak ojciec zmarł.
-
-> [!success] Output
-> - **Kazimierz Wielki**: ostatni z Piastów na tronie.
-> - Jego ojciec to był **Władysław Łokietek**.
-> - Objął tron w **1333** roku, jak ojciec zmarł.
-
-All facts stayed, in her words. "Ale o tym za tydzień" and "o nim mówiłam wam na poprzedniej lekcji, pamiętacie?" went because they carry no facts.
-
-### KEEP (in both modes, in her words)
-- **Facts**: dates, names, places, numbers, terms, events, titles, organisations.
-- **Relations**: causes, effects, goals, "dlaczego", comparisons, who did what to whom.
-- **Qualifiers**: "około", "mniej więcej", "prawdopodobnie", "głównie", "m.in.", "według niektórych historyków", "nie wszyscy". Dropping one changes the meaning.
-- **Examples and explanations** that add information.
-- **Definitions**: word for word (only fillers removed).
-- **Interpretations and opinions** the teacher presents as content ("to była najważniejsza reforma", "uważa się, że…").
-- **Anything she stresses** and all organisational info (tests, homework, deadlines, materials).
-
-### DROP
-- **Fillers and tics**: "yyy", "no więc", "jakby", "tak?", "prawda?", "słuchajcie", "w sumie", "generalnie".
-- **False starts, stutters, and repeats.** If she says the same fact twice, write it once, but keep every detail from both versions.
-- **Classroom talk with no facts**: "zapiszcie to", "pamiętacie, mówiłam wam", "teraz przejdziemy do", rhetorical questions she then answers (keep the answer). Note: "zapiszcie" still counts as a stress signal (`❗`).
-- **Questions to the class**: keep only the correct answer she confirms, as a fact. Drop wrong guesses from students.
-- **Anecdotes**: keep the factual core (who, what, when). Drop the storytelling around it.
-- **Off-topic**: discipline, attendance, jokes, small talk, technical chatter (microphone, board, doors).
-
-> [!check] Rule of thumb
-> For every sentence you drop, ask: "Could this be a test question?" If yes, it stays.
-
-The DROP list applies to COMPACT mode. In FULL mode, drop only fillers, stutters, word-for-word repeats and off-topic talk.
+### Lists
+Every single point matters. One missing point means lost points on the test.
+1. Lists are always priority 1: every point with the teacher's full explanation (who, when, what it changed, why), in her words.
+2. Never shorten, merge or summarise a list. Each point is a separate item, even if two points look similar.
+3. Lists are often spread out: the teacher gives a point, digresses, then continues ("a po drugie…", "kolejna reforma…", "i jeszcze…"). Collect all points of a list, even if they come minutes apart.
+4. Number every list (1., 2., 3.) and put the number of points in the heading: `Reformy (5)`.
+5. If the teacher announced a number ("trzy przyczyny") and you found a different number of points, that's a gap: resolve it (section 4) before writing.
 
 ### Never
-- Change any date, number, name or term on your own judgment (see section 4).
-- Change the order of facts inside a passage.
-- Add anything she didn't say outside of the markers in section 4.
+1. Change any date, number, name or term, except by the rules in section 4.
+2. Change the order of facts inside a passage.
+3. Add anything she didn't say, except what I approve in my answers (section 4, step 3).
 
-### Lists (reforms, causes, effects, points of a treaty, etc.)
-> [!important] Every single point matters. One missing point = lost points on the test.
+### Example: priority 1 (a reform she stresses)
 
-- **Never shorten, merge or summarise a list.** Each point the teacher gives is a separate item, even if two points look similar.
-- Lists are often spread out: the teacher gives a point, digresses, then continues ("a po drugie…", "kolejna reforma…", "i jeszcze…"). Collect all points of a list, even if they come minutes apart.
-- Lists are always 🔒 FULL mode. Keep the teacher's full explanation of each point (who, when, what it changed, why), in her words. Don't cut a point down to a single word or a shorter phrase.
-- **Count the points.** If the teacher announced a number ("trzy", "pięć reform"), the list must have exactly that many items, or it is marked `[luka]`. If there was no announced number, write the count yourself, e.g. `Reformy (5):`.
-- Number every list (1., 2., 3.) so the count is visible.
+Transcript:
+```
+No i teraz, słuchajcie, reforma monetarna, to będzie na sprawdzianie. On, jakby, przeprowadził reformę monetarną, czyli wprowadził, yyy, grosz krakowski. Grosz krakowski. I to było mniej więcej w 1338, może trochę później, historycy się kłócą. No więc to było po to, żeby ujednolicić pieniądz w kraju, bo wcześniej każda dzielnica miała swój, no i to było strasznie niewygodne dla kupców, bo musieli wymieniać.
+```
 
----
+Output:
+```
+- [WAŻNE] Reforma monetarna: przeprowadził reformę monetarną, czyli wprowadził grosz krakowski.
+  - To było mniej więcej w 1338, może trochę później, historycy się kłócą.
+  - To było po to, żeby ujednolicić pieniądz w kraju, bo wcześniej każda dzielnica miała swój, i to było strasznie niewygodne dla kupców, bo musieli wymieniać.
+```
 
-## 4. Correctness: how to decide what's wrong
+Every sentence stayed in her words, including "czyli…" and the detail about the merchants. "To będzie na sprawdzianie" became `[WAŻNE]`. Only fillers and the repeated "Grosz krakowski" went. "Mniej więcej… historycy się kłócą" is the teacher's own content, not uncertainty in the transcript, so it stays.
 
-> [!important] The core problem
-> You can't hear the recording, and you can't know for sure whether something is a Whisper mishearing, a teacher's mistake, or just a version different from the internet. So **you never decide alone and never change anything silently**. Your job is to **spot suspects and show them to me with a timecode**. I can re-listen to the recording and decide in 10 seconds.
+### Example: priority 2 and 3 (background with an anecdote)
 
-### Sources, in order of trust
-1. **The recording itself.** Only I can check it, so every doubt goes to me with a timecode.
-2. **My labels in the `.md` files.** I typed them, so their spelling is reliable.
-3. **The rest of the same transcript.** If a name or date appears clearly elsewhere in the lesson, that's strong evidence.
-4. **Your own knowledge.** Use it only to **notice** possible errors and to suggest a correction. It never overrides the teacher, and it never goes into the text unmarked.
+Transcript:
+```
+No i teraz tak, Kazimierz Wielki, tak? Ostatni z Piastów, no, na tronie, bo potem już byli inni, ale o tym za tydzień. Jego ojciec to był Władysław Łokietek, o nim mówiłam wam na poprzedniej lekcji, pamiętacie? No i on, Kazimierz, objął tron w 1333 roku, jak ojciec zmarł. I wiecie, jest taka historia, że on podobno był strasznie kochliwy, miał mnóstwo romansów, no, ale to tak na marginesie.
+```
 
-### Is it a mishearing or a teacher's mistake?
+Output:
+```
+- Kazimierz Wielki: ostatni z Piastów na tronie.
+- Ojciec: Władysław Łokietek.
+- Objął tron w 1333, jak ojciec zmarł.
+```
 
-| Signals of a **Whisper mishearing** | Signals of **what the teacher really said** |
+The facts stayed, in her words, as short notes. "Ale o tym za tydzień", "mówiłam wam, pamiętacie?" and the anecdote "na marginesie" went.
+
+## 4. Correctness: resolve everything before writing
+
+The work has two phases:
+- Phase 1: find every doubt and resolve it, by yourself (steps 1–2) or by asking me (step 3).
+- Phase 2: write the file, with every decision already applied.
+
+Default: trust the transcript. Whisper is accurate on these recordings. Raise a doubt only when there is concrete evidence (the steps below), never just because a word looks unusual.
+
+### Step 1: resolve inside the transcript
+Apply the first rule that fits. Log every change in the report (section 7).
+
+1. Self-correction. The teacher says something and corrects it right away ("nie, przepraszam", "znaczy", "pomyliłam się", "właściwie", "sorry"), or a student corrects her and she agrees. The corrected version wins.
+2. My label. If my label in the `.md` file spells a name or term, use my spelling.
+3. Same thing elsewhere. If a name or term appears clearly and consistently elsewhere in the batch, and once in a different form, use the consistent form.
+4. Obvious mishearing of a name or term. The transcribed word doesn't exist or makes the sentence nonsense, AND it sounds almost the same as exactly one well-known name or term that fits the context ("Pił suski" → "Piłsudski"). Fix it. Never for dates or numbers.
+5. Teacher contradicts herself (no correction, e.g. 1791 at 10:20 and 1792 at 31:05). Pick the version she dictated, wrote down or stressed. If none, and exactly one version matches standard sources, pick that one. Otherwise go to step 3.
+6. Whisper hallucinations. Ignore looping lines and phrases that appear during silence ("Napisy stworzone przez społeczność Amara.org", "Dziękuję za uwagę" out of context, etc.).
+
+Example of rule 1:
+```
+Pokój toruński, to był rok 1456, nie, przepraszam, 1466. Tysiąc czterysta sześćdziesiąt sześć.
+```
+In the file: `- Pokój toruński: 1466.` In the report: `| L1 | 14:05 | 1456 | 1466 |`
+
+### Step 2: check every fact against your knowledge
+For every date, number, name and key fact in priority 1 and 2, check whether it matches standard sources (school textbooks, encyclopedias).
+
+- If it matches: nothing to do.
+- If it differs: it goes to step 3 as a question. Include the sound test:
+  - write both versions as spoken Polish words, e.g. 1791 = "tysiąc siedemset dziewięćdziesiąt jeden", 1792 = "tysiąc siedemset dziewięćdziesiąt dwa";
+  - "brzmi podobnie": the two could be confused by ear, so it may be a mishearing;
+  - "brzmi inaczej": Whisper almost certainly heard it right, so the teacher really said it.
+- Ignore differences that don't change a fact: spelling conventions, Polish vs Latin form of a name, rounding the teacher marks as approximate ("około").
+
+Your own knowledge never goes into the file by itself. It only produces questions.
+
+### Step 3: ask me about everything still open
+Send ONE message with numbered questions BEFORE writing the file. Group them by type. Each question has:
+- lesson and timecode, so I can re-listen;
+- the transcript text;
+- the problem in one line (for step 2 items: the source version and the sound test);
+- options, with the default marked `(domyślnie)`.
+
+Types and their default options:
+1. Teacher vs sources (from step 2).
+   `[L2 14:05] „Konstytucja 3 maja 1792". Źródła: 1791. Brzmi podobnie. → A) 1791 (domyślnie, jeśli brzmi podobnie) / B) 1792, tak powiedziała (domyślnie, jeśli brzmi inaczej)`
+2. Unresolved teacher contradiction (from step 1, rule 5).
+   `[L1 10:20 i 31:05] Raz 1791, raz 1792. Źródła: 1791. → A) 1791 (domyślnie) / B) 1792`
+3. Unclear word, name or number that no rule in step 1 settles.
+   `[L3 22:40] „hetman Żółkowski". → A) Żółkiewski (domyślnie) / B) zostawić`
+4. Gap: an inaudible or garbled passage, or a list shorter than she announced.
+   `[L2 33:10] Zapowiedziała 3 skutki, podała 2. → A) uzupełnij ze źródeł (domyślnie) / B) podam sam / C) zostaw 2`
+5. Other doubts: file pairing, a timecode with no match or two matches.
+
+Rules:
+1. Don't ask about things step 1 already settled.
+2. I can answer briefly, e.g. "1B, 3: Żółkiewski, reszta domyślnie". Apply exactly what I chose, and the default for everything I didn't mention.
+3. Only after my answer, write the file.
+4. If there are no open questions, write the file right away.
+
+### After the answers
+- Everything goes into the file as plain, final text. No markers, no alternatives, no "według źródeł".
+- Content filled in from sources (option "uzupełnij ze źródeł") also goes in as plain text, in the place where it belongs.
+- Every decision is logged in the report, so I can trace it. The report is a separate output (section 7), never part of the information file.
+
+## 5. Completeness
+
+1. Go through each transcript in order, in blocks of about 5 minutes. Every block with facts must end up in the file, or in "Pominięte fragmenty" in the report with a reason.
+2. If the batch is too long to process fully in one answer, say so and do one lesson per answer. Never skim.
+3. Don't aim for a length. The output gets shorter only by dropping priority 3, writing priority 2 as short notes, and writing each thing once. Never shorten priority 1 to save space.
+
+## 6. Output format: the information file
+
+### General
+1. Language: Polish, always (file, report, questions).
+2. Plain Markdown: headings, bullets, numbered lists, tables. No emojis, no bold, no highlights, no callouts, no decorative symbols.
+3. The only markers allowed are `[WAŻNE]` and `[TC 14:05]`, always written exactly like this.
+4. One fact or one sentence of hers per bullet. Sub-bullets for details of the bullet above.
+5. Write each thing only once:
+   - definitions only in "Definicje"; in the lesson text write `Liberum veto (zob. Definicje)`;
+   - stressed items only in the lesson text; "Wskazówki nauczyciela" only points to them;
+   - facts from recaps are merged into the first place where the topic appears.
+
+### Structure
+Output exactly these sections, in this order:
+
+```
+# <Przedmiot>: <temat> (lekcje <pierwsza>–<ostatnia>)
+
+## Legenda
+- [WAŻNE]: nauczycielka podkreśliła, że to ważne / będzie na sprawdzianie / kazała zapisać.
+- [TC 14:05]: fragment przy timecodzie ucznia.
+- (n) w nagłówku wyliczenia: liczba punktów.
+
+## Lekcja 1 (<data, jeśli padła>)
+### <Temat> (12:30–18:40)
+- ...
+### <Temat> (18:40–25:10)
+- ...
+
+## Lekcja 2 (...)
+...
+
+## Definicje
+- <Termin> (L1 12:30): <definicja, słowo w słowo>
+
+## Chronologia
+| data | wydarzenie |
 | --- | --- |
-| The word doesn't exist, or doesn't fit the grammar | The sentence is clear and grammatical |
-| It sounds like a real name or term ("Pił suski" → "Piłsudski") | She repeats it, or uses it the same way elsewhere |
-| It appears only once, and is correct elsewhere in the lesson | It comes with an explanation or reasoning |
-| It makes the sentence nonsense | It makes sense, it just differs from other sources |
 
-If the signals are mixed, treat it as **uncertain** (level 2 below).
+## Wskazówki nauczyciela i sprawdzian
+### Podkreślone
+- L1 › <Temat>: <czego dotyczy>
+### Organizacja
+- <terminy sprawdzianów i zakres, zadania domowe, terminy, materiały, w całości>
+```
 
-### What to do: five situations
-
-| Level | Situation | Action | Marker in the text |
-| --- | --- | --- | --- |
-| 1 | **Certain mishearing.** It's nonsense, there's one obvious correct form, AND it's confirmed by my label, by the rest of the transcript, or it's a well-known name or term. **Never for dates or numbers.** | Fix it. Log it in "Poprawki transkrypcji" with the original. | none (it's in the table) |
-| 2 | **Uncertain.** It could be a mishearing, there are several candidates, or it's a **date or number** that looks off. | Keep the original. Ask me. | `[? 14:05 → może: „X"]` |
-| 3 | **The teacher contradicts herself** in the lessons (e.g. 1791 at 10:20, 1792 at 31:05). | Keep both. Ask me. | `[⚠ sprzeczność: 31:05]` |
-| 4 | **Clear statement that differs from standard sources.** The teacher clearly said X, but the usual version is Y. (Dates and numbers that differ from sources are always level 2, because they may be misheard.) | **Keep X. Never change it.** What she said is what will be tested. | `[⚠ źródła: Y]` |
-| 5 | **Gap.** Garbled or inaudible passage, or something announced and never finished. | Mark it. If useful, add the standard info in a separate callout below it. | `[luka 14:05]` + optional `> [!note] Spoza lekcji` |
-
-> [!check] Test
-> If I delete every marker, callout and correction, what remains must be ONLY the teacher's words.
-
-### Whisper hallucinations
-Ignore looping lines and phrases that appear during silence ("Napisy stworzone przez społeczność Amara.org", "Dziękuję za uwagę" out of context, etc.). Log a long ignored stretch in "Mapa transkryptu".
-
----
-
-## 5. Questions
-
-- If there are level 2 or level 3 items, or other real doubts (file pairing, an ambiguous timecode), send **ONE message** with numbered questions **BEFORE** writing the output.
-- Each question gives the lesson, the timecode (so I can re-listen), the original text and your best option, e.g.:
-  `3) [L2 14:05] Transkrypcja: „Konstytucja 3 maja 1792". Źródła podają 1791. → zostawić 1792 / zmienić na 1791 / sprawdzę nagranie`
-- Wait for my answers. Apply them, and log each one in the report.
-- Level 4 items (`[⚠ źródła]`) don't need questions. Just mark them.
-- Don't ask about things you can settle from context.
-- If there are no real doubts, write the output right away.
-
----
-
-## 6. Completeness
-
-- Go through each transcript in order, in blocks of about **5 minutes**. Every block with lesson content must end up in the output.
-- Record this in "Mapa transkryptu" so I can see what was used and what was skipped.
-- The output will be long. That's expected. If the batch is too long to process fully in one answer, say so and do **one lesson per answer**. Never skim or shorten to fit.
-
----
-
-## 7. Output
-
-### Language
-**Polish, always**: text, headings, report, questions.
-
-### Structure (Obsidian markdown)
-- `# <descriptive title>`
-- One `##` section per lesson (number, and date if it was said).
-- Inside it, `###` topic subsections in the order of the lesson, each with its time range, e.g. `### Reformy Kazimierza Wielkiego (12:30–18:40)`.
-- The teacher's words as bullets and numbered lists. **Bold** dates, names and key terms.
-- Mark every FULL-mode passage with `🔒` at its start, so I can see what was kept in full.
-- **Highlight** passages at my timecodes as `==text==` and add the timecode, e.g. `[⏱ 14:05]`.
-- Anything the teacher stresses ("będzie na sprawdzianie", "zapiszcie", "pamiętajcie", dictated or repeated points): mark it with `❗` in place AND copy it into "Wskazówki nauczyciela".
-- After all lessons:
-  - `## Definicje`: all definitions, copied word for word from the text above.
-  - `## Chronologia`: table `| data | wydarzenie |`.
-  - `## Wskazówki nauczyciela i sprawdzian`: stressed points, test dates and scope, homework, deadlines, materials.
-  - `## Raport`
-    - **Timecodes:** `| lekcja | timecode | etykieta | sekcja (or "brak treści") |`
-    - **Mapa transkryptu:** `| lekcja | zakres czasu | sekcja (or "pominięto: powód") |`
-    - **Wyliczenia:** `| lekcja | lista | liczba punktów | zapowiedziana liczba (or "—") |`
-    - **Poprawki transkrypcji:** `| timecode | w transkrypcji | w tekście | dowód (etykieta / 23:10 / znana nazwa) |`
-    - **Do sprawdzenia:** every `[?]`, `[⚠]` and `[luka]` with its timecode
-    - **Moje odpowiedzi** to your questions
+Rules for the structure:
+1. Topic subsections follow the order of the lesson, each with its time range.
+2. `[TC 14:05]` goes at the end of the first bullet of a passage at my timecode.
 
 ### File name
-`<Przedmiot>_<Temat-lub-okres>_lekcje-<pierwsza>-<ostatnia>.md`
-e.g. `Historia_Rewolucja-Francuska_lekcje-1-3.md`
+`<Przedmiot>_<Temat-lub-okres>_lekcje-<pierwsza>-<ostatnia>.md`, e.g. `Historia_Rewolucja-Francuska_lekcje-1-3.md`
 
----
+## 7. Output format: the report
+
+A separate output, never inside the information file: a second file `<same name>_raport.md`, or, if you can't create files, a second code block after the file. Include only subsections that have entries.
+
+```
+# Raport: <same title>
+
+## Autopoprawki nauczyciela
+| lekcja | timecode | najpierw | poprawiła na |
+| --- | --- | --- | --- |
+
+## Poprawki transkrypcji
+| lekcja | timecode | w transkrypcji | w pliku | reguła (etykieta / to samo w 23:10 / znana nazwa) |
+| --- | --- | --- | --- | --- |
+
+## Rozstrzygnięte sprzeczności
+| lekcja | timecode'y | wersje | wybrano | dlaczego (podyktowała / podkreśliła / zgodne ze źródłami) |
+| --- | --- | --- | --- | --- |
+
+## Moje odpowiedzi
+| nr | lekcja | timecode | pytanie | wybrano |
+| --- | --- | --- | --- | --- |
+
+## Uzupełnione ze źródeł
+| lekcja | gdzie w pliku | co dodano |
+| --- | --- | --- |
+
+## Pominięte fragmenty
+| lekcja | zakres czasu | powód |
+| --- | --- | --- |
+```
+
+"Pominięte fragmenty" lists only stretches longer than about 1 min.
 
 ## 8. Process
 
-1. Pair the files and locate every timecode (search before AND after it).
-2. Read each transcript block by block. Note suspects (levels 1–5) and every list with its points.
-3. If there are level 2–3 items or other doubts, send the questions and **STOP** until I answer.
-4. Write the output.
-5. Check:
-   - [ ] every timecode and every content block is covered
-   - [ ] every reform, list, definition and timecode passage is in 🔒 FULL mode: compare it sentence by sentence with the transcript, nothing cut or rephrased
-   - [ ] COMPACT parts shortened only by deleting, nothing paraphrased or generalised
-   - [ ] no qualifiers, examples or explanations were dropped
-   - [ ] no fillers, classroom talk or exact repeats left in
-   - [ ] every list has the right count, and no point was merged or dropped (re-read the transcript for each list)
-   - [ ] every correction is in "Poprawki transkrypcji" with its evidence
-   - [ ] no date or number was changed without my approval
-   - [ ] every addition from outside the lesson is marked
-   - [ ] everything is in Polish
-6. Output the .md file (as a file if you can, otherwise in one code block).
-
----
+1. Pair the files and locate every timecode (search before and after it).
+2. Read each transcript block by block. Note stress signals, reforms, lists, definitions, self-corrections and anything that needs checking.
+3. Resolve what you can (section 4, steps 1–2).
+4. If anything is still open, send the questions and STOP until I answer.
+5. Write the information file and the report.
+6. Check:
+   - every priority 1 item (reforms, lists, definitions, `[WAŻNE]` items, timecode passages) is word for word: compare it sentence by sentence with the transcript;
+   - every stress signal is marked `[WAŻNE]` and has a pointer in "Wskazówki";
+   - every list has its count in the heading, no point merged or dropped (re-read the transcript for each list);
+   - priority 2: every fact kept, in her words, as short notes;
+   - no anecdotes, classroom talk, fillers or recaps without new information;
+   - each thing written only once;
+   - every block is in the file or in "Pominięte fragmenty";
+   - every decision and my answers are applied, and each one is logged in the report;
+   - the file contains no uncertainty: no "?", no alternatives, no markers other than `[WAŻNE]` and `[TC]`;
+   - no emojis, no bold, everything in Polish.
+7. Output the information file, then the report.
 
 ## Appendix: Audit prompt
 
-> [!tip] Paste into a NEW chat with the finished text and the `.srt` files
+Paste into a NEW chat with the information file, the report and the `.srt` files:
 
-````text
-Porównaj załączony tekst z transkrypcjami. Nie przepisuj tekstu. Wypisz tylko:
-1. Treści z transkrypcji, których brakuje w tekście (daty, nazwiska, miejsca, liczby, przyczyny, skutki, przykłady, wyjaśnienia, elementy wyliczeń, definicje), z timecode'em.
-2. Miejsca, gdzie słowa nauczyciela zostały sparafrazowane, streszczone lub zmienione tak, że zmienił się sens, albo usunięto zastrzeżenia („około", „prawdopodobnie", „głównie" itp.). Podaj oryginał i wersję z tekstu.
-3. Twierdzenia w tekście, których nie ma w transkrypcji i które nie są oznaczone jako `[?]`, `[⚠]`, `[luka]` lub `> [!note] Spoza lekcji`.
-4. Daty, liczby i nazwy, które w tekście różnią się od transkrypcji, a nie są w tabeli „Poprawki transkrypcji".
-5. Wyliczenia (reformy, przyczyny, skutki, postanowienia itp.), w których brakuje choć jednego punktu, punkty zostały połączone, albo liczba elementów nie zgadza się z tym, co zapowiedział nauczyciel. Sprawdź każde wyliczenie osobno w transkrypcji.
-6. Reformy, wyliczenia, definicje i fragmenty oznaczone 🔒, w których cokolwiek zostało skrócone, pominięte lub ujęte innymi słowami niż w transkrypcji (nawet jedno zdanie, wyjaśnienie „czyli…" czy przykład). Porównaj zdanie po zdaniu.
-7. Reformy lub wyliczenia, które nie zostały oznaczone 🔒.
-8. Fragmenty, w których zostały wypełniacze, gadanie bez faktów albo powtórzenia (tylko krótko, z przykładem).
+```text
+Porównaj załączony plik z informacjami z transkrypcjami. Raport opisuje wszystkie świadome zmiany (autopoprawki, poprawki transkrypcji, rozstrzygnięcia, uzupełnienia ze źródeł). Nie przepisuj pliku. Wypisz tylko:
+1. Fakty z transkrypcji, których brakuje w pliku (daty, nazwiska, miejsca, liczby, przyczyny, skutki, elementy wyliczeń, definicje), z timecode'em.
+2. Reformy, wyliczenia, definicje i fragmenty oznaczone [WAŻNE] lub [TC], w których cokolwiek zostało skrócone, pominięte lub ujęte innymi słowami niż w transkrypcji (nawet jedno zdanie, wyjaśnienie „czyli…" czy przykład). Porównaj zdanie po zdaniu. Podaj oryginał i wersję z pliku.
+3. Miejsca, gdzie nauczycielka podkreśliła wagę („ważne", „będzie na sprawdzianie", „zapiszcie", „pamiętajcie", dyktowanie, wielokrotne powtarzanie), a w pliku nie ma [WAŻNE].
+4. Wyliczenia, w których brakuje choć jednego punktu, punkty zostały połączone, albo liczba w nagłówku nie zgadza się z liczbą punktów.
+5. Miejsca, gdzie nauczycielka się poprawiła, a w pliku jest pierwsza (błędna) wersja.
+6. Pozostałe miejsca, gdzie słowa nauczycielki sparafrazowano albo usunięto zastrzeżenia („około", „prawdopodobnie", „głównie" itp.).
+7. Daty, liczby, nazwy i twierdzenia, które w pliku różnią się od transkrypcji albo w niej nie występują, a nie są opisane w raporcie.
+8. Daty, liczby i nazwy w pliku, które są niezgodne ze standardowymi źródłami, a nie są opisane w raporcie (pytanie do ucznia lub rozstrzygnięcie).
+9. Niepewności w pliku: znaki zapytania, alternatywne wersje, „może", „według źródeł", znaczniki inne niż [WAŻNE] i [TC].
+10. Anegdoty, wypełniacze, powtórzenia albo treści zapisane dwa razy, które zostały w pliku (tylko krótko, z przykładem).
 Jeśli w danym punkcie nic nie ma, napisz „brak".
-````
+```
