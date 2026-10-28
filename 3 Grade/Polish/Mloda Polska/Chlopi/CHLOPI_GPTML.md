@@ -1,11 +1,3 @@
-# CHŁOPI — TOM I: JESIEŃ — GPTML
-
-Samodzielna baza do sprawdzianów z języka polskiego, klasa 3. Obejmuje fabułę **tomu I**, analizę, bohaterów, realia i przykładowe odpowiedzi. Cała powieść ma cztery części; zdarzeń z dalszych tomów nie wolno przedstawiać jako zakończenia „Jesieni”. To opracowanie, nie pełny tekst powieści; przy pytaniu o szczegół niewymieniony niżej należy sprawdzić tekst, a nie go wymyślać.
-
-## Instrukcja dla rozwiązującego
-
-Czytaj dokładnie polecenie i materiał do zadania; odpowiadaj po polsku, w wymaganej formie i długości. W testach podawaj wybraną odpowiedź i krótkie uzasadnienie, gdy jest potrzebne; w pytaniach otwartych podaj konkretny fakt oraz wyjaśnij jego znaczenie. W wypracowaniu sformułuj tezę, użyj trafnych scen jako argumentów, wyciągnij wnioski i dobierz kontekst, jeśli polecenie go wymaga. Rozróżniaj fakt, opinię bohatera, plotkę i interpretację. Nie dopisuj cytatów ani numerów stron; nie przerabiaj parafrazy na cytat. Jeśli pytanie dotyczy fragmentu z obrazka, pierwszeństwo ma jego treść. Jeśli coś jest nieczytelne lub brak danych, zaznacz to uczciwie. Wydarzenia całej tetralogii przywołuj tylko wtedy, gdy pozwala na to polecenie, i oznaczaj tom.
-
 ## 1. Podstawy
 
 **Autor:** Władysław Stanisław Reymont. **Epoka:** Młoda Polska (modernizm), przełom XIX i XX w. **Rodzaj:** epika. **Gatunek:** powieść realistyczna o cechach epopei chłopskiej; występują też naturalizm, impresjonizm i symbolizacja. Pierwodruk w odcinkach 1902–1909, wydania książkowe tomów 1904–1909; Nobel literacki dla Reymonta w 1924 r. za wielką epopeję narodową „Chłopi”.
@@ -191,14 +183,3 @@ Kuba cierpi z powodu rany, która ulega zakażeniu; pozostaje w stajni, podczas 
 8. Opisy całej powieści często zawierają późniejszą przemianę Hanki, śmierć Macieja czy wypędzenie Jagny. W odpowiedzi ograniczonej do „Jesieni” można zaznaczyć, że są późniejsze, ale nie przedstawiać ich jako wydarzeń tomu I.
 9. Cytat wymaga zgodności z rzeczywistym tekstem i wydaniem. Jeśli nie masz pewności, opisz scenę własnymi słowami bez cudzysłowu; nie wymyślaj numerów stron.
 10. Słowa „wieś”, „chłopi”, „gromada” nie oznaczają równości majątkowej ani jednomyślności. Opinia jednej postaci nie jest automatycznie opinią autora.
-
-## 14. Źródła do weryfikacji
-
-Opracowanie napisane własnymi słowami; krótkie definicje i interpretacje zestawiono z tekstem oraz opracowaniami. Strony mogą omawiać całą powieść — trzeba sprawdzić część i rozdział.
-
-- Tekst powieści, Wolne Lektury: https://wolnelektury.pl/katalog/lektura/chlopi/
-- Tekst „Jesieni” z podziałem na 12 rozdziałów: https://czytamlektury.pl/chlopi-jesien/
-- Tekst rozdziału XI, Wikiźródła: https://pl.wikisource.org/wiki/Ch%C5%82opi_%28Reymont%29/Jesie%C5%84/XI
-- Opracowanie z rozdziałami i problematyką: https://opracowania.pl/opracowania/jezyk-polski/chlopi-w-s-reymont,oid,454
-- Streszczenie tomu I oraz odsyłacze do analiz: https://klp.pl/chlopi/a-10694.html
-- Dodatkowe zestawienie wydarzeń: https://streszczenia.pl/lektura/chlopi/
