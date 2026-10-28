@@ -1,6 +1,6 @@
 ---
 title: "Physics"
-description: "School calculation layout, qualitative answer reasoning, and multi-user handling."
+description: "School calculation layout, qualitative reasoning, and optional answer-version consistency."
 base: "[[UNV_PROMPT]]"
 ---
 
@@ -10,12 +10,12 @@ Rule: For physics calculation tasks, do not output labels like Dane, Szukane, Wz
 
 ---
 
-Target: Tasks types
+Target: Rules
 Action: ADD
 Rule: For qualitative physics tasks (e.g. wyjaśnij, uzasadnij), build the answer as a direct cause-and-effect chain: state the initial condition or cause, the relevant physical mechanism or law, and the resulting conclusion. Use standard secondary school terminology and include only essential points needed for full credit, omitting introductory filler and college-level theories.
 
 ---
 
-Target: Paraphrase and anti-plagiarism - [N] variants
+Target: Multi-step tasks
 Action: ADD
-Rule: For physics calculation tasks across multiple users, keep given values, formulas, and calculations strictly identical across all versions; paraphrase only the verbal Odp. sentence and qualitative explanations.
+Rule: For physics calculation tasks with multiple requested answer versions, keep given values, SI conversions, formulas, transformations, and calculations identical across versions; paraphrase only the verbal Odp. sentence and any qualitative explanations.
