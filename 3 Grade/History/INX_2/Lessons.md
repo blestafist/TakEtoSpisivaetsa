@@ -1,7 +1,7 @@
-- [ ] 306f2afb  
-- [ ] eeed1cb2  
-- [ ] 3ee28b11  
-- [ ] c434c012  
-- [ ] e96ea7d1  
-- [ ] 071dfd5c  
-- [ ] bbe8014d
+- [x] 306f2afb  
+- [x] eeed1cb2  
+- [x] 3ee28b11  
+- [x] c434c012  
+- [x] e96ea7d1  
+- [x] 071dfd5c  
+- [x] bbe8014d
