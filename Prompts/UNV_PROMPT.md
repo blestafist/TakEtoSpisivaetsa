@@ -56,6 +56,7 @@ The following table contains the commands that can be used to control the AI's b
 
 | Command  | AI Instruction                                                                                                                                                                    |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `!!`     | Repeat the most recent non-`!!` bind command exactly, preserving combined binds, task targets, and arguments. Run it again on the current task/answer state; do not just copy the previous reply. |
 | `ae`     | Solve ALL tasks from scratch without relying on previous answers, then compare. Correct only actual errors; keep correct answers.                                                 |
 | `ac`     | Critically audit ALL answers for errors.                                                                                                                                          |
 | `ai`     | Redo ALL tasks without using information-source files (`IGNORE_FILE`).                                                                                                            |
@@ -68,6 +69,7 @@ The following table contains the commands that can be used to control the AI's b
 | `d [Term]` | Define the term using an exact quote from an accessible source. If none is available, give a normal definition and add `No exact quote available.` Never invent quotes. |
 
 Binds can be combined.
+- `!!` repeats a bind command, not task text or an assistant reply. Consecutive `!!` messages reuse the same command. If no previous bind command is available in the chat, ask which command to repeat instead of guessing.
 - `ai` and `[N] i` ignore information-source files only for the requested redo, not future requests. Base instructions and mods remain active.
 - For commands targeting a task, output only the requested task with its header and any necessary warnings, not the full test or identification header.
 
